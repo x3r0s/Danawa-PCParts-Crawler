@@ -2,7 +2,7 @@ name: Daily Crawler
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # UTC 기준 매일 15:00 (한국 시간 자정)
+    - cron: '0 15 * * 0'  # UTC 기준 매주 일요일 15:00 (한국 시간 월요일 자정)
   workflow_dispatch:  # 수동 실행 옵션
 
 jobs:

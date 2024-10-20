@@ -11,10 +11,10 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 import time
 import threading
-import queue
 import zipfile
 from datetime import datetime
 import argparse
+import shutil
 
 # 프로젝트 루트 디렉토리 설정
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -40,55 +40,49 @@ def scroll_to_bottom(driver):
         last_height = new_height
 
 # 제품 정보 추출 함수
-def extract_product_info(driver, category, save_images):
-    products = driver.find_elements(By.CSS_SELECTOR, "li.prod_item")
-    product_list = []
-    for product in products:
-        try:
-            name = product.find_element(By.CSS_SELECTOR, "div.main_info > div.head_info > a > strong").text
-            
-            prod_link = product.find_element(By.CSS_SELECTOR, "div.main_info > div.head_info > a").get_attribute('href')
-            parsed_url = urlparse(prod_link)
-            query_params = parse_qs(parsed_url.query)
-            product_id = query_params.get('billingInternalProductSeq', [None])[0]
-            
-            price_element = product.find_element(By.CSS_SELECTOR, "div.price_info > div.main_price.prod_price_set > dl:nth-child(1) > dd > span.text__number")
-            price_text = price_element.text.replace(',', '')
-            price = int(price_text) if price_text.isdigit() else None
-            
-            specs = product.find_elements(By.CSS_SELECTOR, "div.main_info > dl > dd > ul.spec_list > li")
-            spec_list = [spec.text for spec in specs]
-            
-            img_url = product.find_element(By.CSS_SELECTOR, "div.thumb_info > div > a > img").get_attribute('src')
-            img_url = img_url.split('?')[0]  # '?' 이후의 문자열 제거
-            
-            reg_date = product.find_element(By.CSS_SELECTOR, "div.main_info > div.prod_sub_info > div.prod_sub_meta > dl").text
-            
-            product_info = {
-                "제품명": name,
-                "제품ID": product_id,
-                "가격": price,
-                "스펙": spec_list,
-                "prod_danawa_href": prod_link,
-                "이미지URL": img_url,
-                "등록년월": reg_date
-            }
-            product_list.append(product_info)
-            
-            if save_images:
-                save_image(img_url, product_id, category)
-            
-            print(f"제품명: {name}")
-            print(f"제품ID: {product_id}")
-            print(f"가격: {price}원" if price is not None else "가격: 정보 없음")
-            print(f"스펙: {', '.join(spec_list)}")
-            print(f"상품 링크: {prod_link}")
-            print(f"이미지 URL: {img_url}")
-            print(f"등록년월: {reg_date}")
-            print("-" * 50)
-        except Exception as e:
-            print(f"정보 추출 중 오류 발생: {e}")
-    return product_list
+def extract_product_info(product, category, save_images):
+    name = product.find_element(By.CSS_SELECTOR, "div.main_info > div.head_info > a > strong").text
+    
+    prod_link = product.find_element(By.CSS_SELECTOR, "div.main_info > div.head_info > a").get_attribute('href')
+    parsed_url = urlparse(prod_link)
+    query_params = parse_qs(parsed_url.query)
+    product_id = query_params.get('billingInternalProductSeq', [None])[0]
+    
+    price_element = product.find_element(By.CSS_SELECTOR, "div.price_info > div.main_price.prod_price_set > dl:nth-child(1) > dd > span.text__number")
+    price_text = price_element.text.replace(',', '')
+    price = int(price_text) if price_text.isdigit() else None
+    
+    specs = product.find_elements(By.CSS_SELECTOR, "div.main_info > dl > dd > ul.spec_list > li")
+    spec_list = [spec.text for spec in specs]
+    
+    img_url = product.find_element(By.CSS_SELECTOR, "div.thumb_info > div > a > img").get_attribute('src')
+    img_url = img_url.split('?')[0]  # '?' 이후의 문자열 제거
+    
+    reg_date = product.find_element(By.CSS_SELECTOR, "div.main_info > div.prod_sub_info > div.prod_sub_meta > dl").text
+    
+    product_info = {
+        "제품명": name,
+        "제품ID": product_id,
+        "가격": price,
+        "스펙": spec_list,
+        "prod_danawa_href": prod_link,
+        "이미지URL": img_url,
+        "등록년월": reg_date
+    }
+    
+    if save_images:
+        save_image(img_url, product_id, category)
+    
+    print(f"제품명: {name}")
+    print(f"제품ID: {product_id}")
+    print(f"가격: {price}원" if price is not None else "가격: 정보 없음")
+    print(f"스펙: {', '.join(spec_list)}")
+    print(f"상품 링크: {prod_link}")
+    print(f"이미지 URL: {img_url}")
+    print(f"등록년월: {reg_date}")
+    print("-" * 50)
+    
+    return product_info
 
 def save_image(img_url, product_id, category):
     img_dir = os.path.join(PROJECT_ROOT, 'dataset', 'product-images', category)
@@ -106,25 +100,58 @@ def save_image(img_url, product_id, category):
 
 # 페이지별 크롤링 함수
 def crawl_page(driver, page_num, category, save_images):
-    print(f"\n{category} - {page_num}번째 페이지 제품 정보:")
+    print(f"\n{category} - {page_num}번째 페이지 품 정보:")
     scroll_to_bottom(driver)
     wait = WebDriverWait(driver, 20)
     wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li.prod_item")))
     time.sleep(3)
     return extract_product_info(driver, category, save_images)
 
+# JSON 파일에 데이터 추가 함수 (실시간 저장)
+def append_to_json(product, filename):
+    if os.path.exists(filename):
+        with open(filename, 'r+', encoding='utf-8') as file:
+            file_data = json.load(file)
+            file_data.append(product)
+            file.seek(0)
+            json.dump(file_data, file, ensure_ascii=False, indent=4)
+    else:
+        with open(filename, 'w', encoding='utf-8') as file:
+            json.dump([product], file, ensure_ascii=False, indent=4)
+
 # 카테고리별 크롤링 함수
-def crawl_category(url, category, result_queue, save_images):
+def crawl_category(url, category, save_images):
     driver = setup_driver()
     driver.get(url)
     wait = WebDriverWait(driver, 20)
-    all_products = []
     page_num = 1
     max_pages = 1
+    
+    output_dir = os.path.join(PROJECT_ROOT, 'dataset')
+    os.makedirs(output_dir, exist_ok=True)
+    output_file = os.path.join(output_dir, f'{category}.json')
+    
+    # 기존 파일 삭제
+    if os.path.exists(output_file):
+        os.remove(output_file)
 
     while True:
         try:
-            all_products.extend(crawl_page(driver, page_num, category, save_images))
+            print(f"\n{category} - {page_num}번째 페이지 제품 정보:")
+            scroll_to_bottom(driver)
+            wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li.prod_item")))
+            time.sleep(3)
+            
+            products = driver.find_elements(By.CSS_SELECTOR, "li.prod_item")
+            for product in products:
+                try:
+                    product_info = extract_product_info(product, category, save_images)
+                    append_to_json(product_info, output_file)
+                    print(f"제품 정보 저장 완료: {product_info['제품명']}")
+                except Exception as e:
+                    print(f"제품 정보 추출 중 오류 발생: {e}")
+            
+            print(f"{category}: {len(products)}개의 제품 정보를 저장했습니다. (총 {page_num} 페이지)")
             
             # 다음 버튼 확인
             next_button = driver.find_elements(By.CSS_SELECTOR, "a.nav_next")
@@ -151,7 +178,6 @@ def crawl_category(url, category, result_queue, save_images):
             break
 
     driver.quit()
-    result_queue.put((category, all_products))
 
 # 데이터 압축 함수
 def compress_data(output_dir):
@@ -174,29 +200,16 @@ def main(save_images=False):
         targets = json.load(f)
 
     threads = []
-    result_queue = queue.Queue()
 
     for category, url in targets.items():
-        thread = threading.Thread(target=crawl_category, args=(url, category, result_queue, save_images))
+        thread = threading.Thread(target=crawl_category, args=(url, category, save_images))
         threads.append(thread)
         thread.start()
 
     for thread in threads:
         thread.join()
 
-    all_results = {}
-    while not result_queue.empty():
-        category, products = result_queue.get()
-        all_results[category] = products
-
     output_dir = os.path.join(PROJECT_ROOT, 'dataset')
-    os.makedirs(output_dir, exist_ok=True)
-    
-    for category, products in all_results.items():
-        with open(os.path.join(output_dir, f'{category}.json'), 'w', encoding='utf-8') as f:
-            json.dump(products, f, ensure_ascii=False, indent=4)
-        print(f"{category}: 총 {len(products)}개의 제품 정보를 저장했습니다.")
-
     compress_data(output_dir)
 
 if __name__ == "__main__":

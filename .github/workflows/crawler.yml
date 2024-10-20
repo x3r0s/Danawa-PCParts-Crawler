@@ -1,0 +1,50 @@
+name: Daily Crawler
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # UTC 기준 매일 15:00 (한국 시간 자정)
+  workflow_dispatch:  # 수동 실행 옵션
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.12.4'
+    
+    - name: Cache pip packages
+      uses: actions/cache@v2
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Install Chrome
+      uses: browser-actions/setup-chrome@latest
+    
+    - name: Run crawler
+      run: python crawler.py
+      continue-on-error: true
+    
+    - name: Upload crawling results
+      uses: actions/upload-artifact@v2
+      with:
+        name: crawling-results
+        path: dataset/
+    
+    - name: Commit and push if changed
+      run: |
+        git config --global user.email "xeros@xbyteventures.com"
+        git config --global user.name "xeros"
+        git add -A
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update data" && git push)

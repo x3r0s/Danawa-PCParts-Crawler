@@ -25,9 +25,7 @@ def setup_driver():
     options.add_argument('--headless')
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
-    
-    chrome_driver_path = os.environ.get("CHROMEWEBDRIVER")
-    driver = webdriver.Chrome(executable_path=chrome_driver_path, options=options)
+    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     return driver
 
 # 스크롤 함수

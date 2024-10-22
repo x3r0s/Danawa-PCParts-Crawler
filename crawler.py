@@ -121,63 +121,67 @@ def append_to_json(product, filename):
 
 # 카테고리별 크롤링 함수
 def crawl_category(url, category, save_images):
-    driver = setup_driver()
-    driver.get(url)
-    wait = WebDriverWait(driver, 20)
-    page_num = 1
-    max_pages = 1
-    
-    output_dir = os.path.join(PROJECT_ROOT, 'dataset')
-    os.makedirs(output_dir, exist_ok=True)
-    output_file = os.path.join(output_dir, f'{category}.json')
-    
-    # 기존 파일 삭제
-    if os.path.exists(output_file):
-        os.remove(output_file)
+    try:
+        driver = setup_driver()
+        driver.get(url)
+        wait = WebDriverWait(driver, 20)
+        page_num = 1
+        max_pages = 1
+        
+        output_dir = os.path.join(PROJECT_ROOT, 'dataset')
+        os.makedirs(output_dir, exist_ok=True)
+        output_file = os.path.join(output_dir, f'{category}.json')
+        
+        # 기존 파일 삭제
+        if os.path.exists(output_file):
+            os.remove(output_file)
 
-    while True:
-        try:
-            print(f"\n{category} - {page_num}번째 페이지 제품 정보:")
-            scroll_to_bottom(driver)
-            wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li.prod_item")))
-            time.sleep(3)
-            
-            products = driver.find_elements(By.CSS_SELECTOR, "li.prod_item")
-            for product in products:
-                try:
-                    product_info = extract_product_info(product, category, save_images)
-                    append_to_json(product_info, output_file)
-                    print(f"제품 정보 저장 완료: {product_info['제품명']}")
-                except Exception as e:
-                    print(f"제품 정보 추출 중 오류 발생: {e}")
-            
-            print(f"{category}: {len(products)}개의 제품 정보를 저장했습니다. (총 {page_num} 페이지)")
-            
-            # 다음 버튼 확인
-            next_button = driver.find_elements(By.CSS_SELECTOR, "a.nav_next")
-            if not next_button:
-                # 다음 버튼이 없을 경우, 페이지 번호 확인
-                page_numbers = driver.find_elements(By.CSS_SELECTOR, "div.number_wrap > a")
-                if page_numbers:
-                    max_pages = max(int(page.text) for page in page_numbers if page.text.isdigit())
+        while True:
+            try:
+                print(f"\n{category} - {page_num}번째 페이지 제품 정보:")
+                scroll_to_bottom(driver)
+                wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li.prod_item")))
+                time.sleep(3)
                 
-                if page_num >= max_pages:
-                    print(f"{category} 마지막 페이지입니다. 크롤링을 종료합니다.")
-                    break
+                products = driver.find_elements(By.CSS_SELECTOR, "li.prod_item")
+                for product in products:
+                    try:
+                        product_info = extract_product_info(product, category, save_images)
+                        append_to_json(product_info, output_file)
+                        print(f"제품 정보 저장 완료: {product_info['제품명']}")
+                    except Exception as e:
+                        print(f"제품 정보 추출 중 오류 발생: {e}")
+                
+                print(f"{category}: {len(products)}개의 제품 정보를 저장했습니다. (총 {page_num} 페이지)")
+                
+                # 다음 버튼 확인
+                next_button = driver.find_elements(By.CSS_SELECTOR, "a.nav_next")
+                if not next_button:
+                    # 다음 버튼이 없을 경우, 페이지 번호 확인
+                    page_numbers = driver.find_elements(By.CSS_SELECTOR, "div.number_wrap > a")
+                    if page_numbers:
+                        max_pages = max(int(page.text) for page in page_numbers if page.text.isdigit())
+                    
+                    if page_num >= max_pages:
+                        print(f"{category} 마지막 페이지입니다. 크롤링을 종료합니다.")
+                        break
+                    else:
+                        # 다음 페이지로 직접 이동
+                        next_page_url = f"{url}&page={page_num + 1}"
+                        driver.get(next_page_url)
                 else:
-                    # 다음 페이지로 직접 이동
-                    next_page_url = f"{url}&page={page_num + 1}"
-                    driver.get(next_page_url)
-            else:
-                driver.execute_script("arguments[0].click();", next_button[0])
-            
-            time.sleep(3)
-            page_num += 1
-        except Exception as e:
-            print(f"{category} 예상치 못한 오류 발생: {e}")
-            break
+                    driver.execute_script("arguments[0].click();", next_button[0])
+                
+                time.sleep(3)
+                page_num += 1
+            except Exception as e:
+                print(f"{category} 페이지 처리 중 오류 발생: {e}")
+                break
 
-    driver.quit()
+    except Exception as e:
+        print(f"{category} 카테고리 처리 중 오류 발생: {e}")
+    finally:
+        driver.quit()
 
 # 데이터 압축 함수
 def compress_data(output_dir):
@@ -199,15 +203,13 @@ def main(save_images=False):
     with open(os.path.join(PROJECT_ROOT, 'target-list.json'), 'r') as f:
         targets = json.load(f)
 
-    threads = []
-
     for category, url in targets.items():
-        thread = threading.Thread(target=crawl_category, args=(url, category, save_images))
-        threads.append(thread)
-        thread.start()
-
-    for thread in threads:
-        thread.join()
+        try:
+            print(f"{category} 크롤링 시작")
+            crawl_category(url, category, save_images)
+            print(f"{category} 크롤링 완료")
+        except Exception as e:
+            print(f"{category} 크롤링 중 오류 발생: {e}")
 
     output_dir = os.path.join(PROJECT_ROOT, 'dataset')
     compress_data(output_dir)

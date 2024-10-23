@@ -56,3 +56,18 @@ jobs:
         git config --global user.name "xeros"
         git add -A
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update data" && git push)
+
+    - name: Check crawling results
+      run: |
+        echo "Crawling results:"
+        for file in dataset/*.json; do
+          echo "$(basename "$file"): $(jq length "$file") products"
+        done
+        
+        # 누락된 카테고리 확인
+        expected_categories=$(jq -r 'keys[]' target-list.json)
+        for category in $expected_categories; do
+          if [ ! -f "dataset/${category}.json" ]; then
+            echo "Missing category: ${category}"
+          fi
+        done

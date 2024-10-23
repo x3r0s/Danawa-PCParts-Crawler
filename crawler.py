@@ -15,6 +15,7 @@ import zipfile
 from datetime import datetime
 import argparse
 import shutil
+import traceback
 
 # 프로젝트 루트 디렉토리 설정
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -121,6 +122,7 @@ def append_to_json(product, filename):
 
 # 카테고리별 크롤링 함수
 def crawl_category(url, category, save_images):
+    print(f"카테고리 '{category}' 크롤링 시작")
     try:
         driver = setup_driver()
         driver.get(url)
@@ -179,7 +181,8 @@ def crawl_category(url, category, save_images):
                 break
 
     except Exception as e:
-        print(f"{category} 카테고리 처리 중 오류 발생: {e}")
+        print(f"카테고리 '{category}' 크롤링 중 오류 발생: {str(e)}")
+        print(traceback.format_exc())
     finally:
         driver.quit()
 
@@ -199,17 +202,22 @@ def compress_data(output_dir):
     print(f"데이터 압축 완료: {zip_filename}")
 
 # 메인 함수
-def main(save_images=False):
+def main(save_images=False, verbose=False):
+    if verbose:
+        print("상세 로그 모드 활성화")
+    
     with open(os.path.join(PROJECT_ROOT, 'target-list.json'), 'r') as f:
         targets = json.load(f)
 
+    threads = []
     for category, url in targets.items():
-        try:
-            print(f"{category} 크롤링 시작")
-            crawl_category(url, category, save_images)
-            print(f"{category} 크롤링 완료")
-        except Exception as e:
-            print(f"{category} 크롤링 중 오류 발생: {e}")
+        thread = threading.Thread(target=crawl_category, args=(url, category, save_images))
+        threads.append(thread)
+        thread.start()
+        print(f"{category} 크롤링 시작")
+
+    for thread in threads:
+        thread.join()
 
     output_dir = os.path.join(PROJECT_ROOT, 'dataset')
     compress_data(output_dir)
@@ -217,6 +225,7 @@ def main(save_images=False):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Danawa 제품 정보 크롤러')
     parser.add_argument('--save-images', action='store_true', help='이미지 저장 여부')
+    parser.add_argument('--verbose', action='store_true', help='상세 로그 출력')
     args = parser.parse_args()
 
-    main(save_images=args.save_images)
+    main(save_images=args.save_images, verbose=args.verbose)

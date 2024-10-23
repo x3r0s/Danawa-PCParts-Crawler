@@ -32,15 +32,26 @@ jobs:
     - name: Install Chrome
       uses: browser-actions/setup-chrome@latest
     
+    - name: Check directory before crawling
+      run: ls -R dataset
+    
     - name: Run crawler
-      run: python crawler.py
-      continue-on-error: true
+      run: python crawler.py --verbose
+      env:
+        PYTHONUNBUFFERED: 1
+    
+    - name: Check directory after crawling
+      run: ls -R dataset
+    
+    - name: Compress crawling results
+      run: tar -czvf crawling-results.tar.gz dataset/
     
     - name: Upload crawling results
       uses: actions/upload-artifact@v3
+      if: always()
       with:
         name: crawling-results
-        path: dataset/
+        path: crawling-results.tar.gz
     
     - name: Commit and push if changed
       run: |

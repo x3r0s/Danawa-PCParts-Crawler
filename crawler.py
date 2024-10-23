@@ -138,9 +138,10 @@ def crawl_category(url, category, save_images):
         if os.path.exists(output_file):
             os.remove(output_file)
 
+        products_count = 0
         while True:
             try:
-                print(f"\n{category} - {page_num}번째 페이지 제품 정보:")
+                print(f"\n{category} - {page_num}번째 페이지 제품 정보 크롤링 중...")
                 scroll_to_bottom(driver)
                 wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "li.prod_item")))
                 time.sleep(3)
@@ -150,11 +151,11 @@ def crawl_category(url, category, save_images):
                     try:
                         product_info = extract_product_info(product, category, save_images)
                         append_to_json(product_info, output_file)
-                        print(f"제품 정보 저장 완료: {product_info['제품명']}")
+                        products_count += 1
                     except Exception as e:
                         print(f"제품 정보 추출 중 오류 발생: {e}")
                 
-                print(f"{category}: {len(products)}개의 제품 정보를 저장했습니다. (총 {page_num} 페이지)")
+                print(f"{category}: 현재까지 {products_count}개의 제품 정보를 저장했습니다. (총 {page_num} 페이지)")
                 
                 # 다음 버튼 확인
                 next_button = driver.find_elements(By.CSS_SELECTOR, "a.nav_next")
@@ -178,6 +179,7 @@ def crawl_category(url, category, save_images):
                 page_num += 1
             except Exception as e:
                 print(f"{category} 페이지 처리 중 오류 발생: {e}")
+                print(traceback.format_exc())
                 break
 
     except Exception as e:
@@ -187,6 +189,7 @@ def crawl_category(url, category, save_images):
         driver.quit()
         print(f"카테고리 '{category}' 크롤링 완료")
         print(f"결과 파일: {output_file}")
+        print(f"총 {products_count}개의 제품 정보를 저장했습니다.")
 
 # 데이터 압축 함수
 def compress_data(output_dir):
@@ -220,6 +223,17 @@ def main(save_images=False, verbose=False):
 
     for thread in threads:
         thread.join()
+
+    print("모든 카테고리 크롤링 완료")
+    print("크롤링 결과:")
+    for category in targets.keys():
+        output_file = os.path.join(PROJECT_ROOT, 'dataset', f'{category}.json')
+        if os.path.exists(output_file):
+            with open(output_file, 'r', encoding='utf-8') as f:
+                products = json.load(f)
+            print(f"{category}: {len(products)}개 제품")
+        else:
+            print(f"{category}: 파일 없음")
 
     output_dir = os.path.join(PROJECT_ROOT, 'dataset')
     compress_data(output_dir)

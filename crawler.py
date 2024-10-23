@@ -185,6 +185,8 @@ def crawl_category(url, category, save_images):
         print(traceback.format_exc())
     finally:
         driver.quit()
+        print(f"카테고리 '{category}' 크롤링 완료")
+        print(f"결과 파일: {output_file}")
 
 # 데이터 압축 함수
 def compress_data(output_dir):

@@ -9,15 +9,15 @@ jobs:
   crawl:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.12.4'
     
     - name: Cache pip packages
-      uses: actions/cache@v2
+      uses: actions/cache@v3
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
@@ -33,26 +33,23 @@ jobs:
       uses: browser-actions/setup-chrome@latest
     
     - name: Check directory before crawling
-      run: ls -R dataset
-    
+      run: ls -R
+
     - name: Run crawler
       run: python crawler.py --verbose
       env:
         PYTHONUNBUFFERED: 1
-    
+
     - name: Check directory after crawling
-      run: ls -R dataset
-    
-    - name: Compress crawling results
-      run: tar -czvf crawling-results.tar.gz dataset/
-    
+      run: ls -R
+
     - name: Upload crawling results
       uses: actions/upload-artifact@v3
       if: always()
       with:
         name: crawling-results
-        path: crawling-results.tar.gz
-    
+        path: dataset/
+
     - name: Commit and push if changed
       run: |
         git config --global user.email "xeros@xbyteventures.com"

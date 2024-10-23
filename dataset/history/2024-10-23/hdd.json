@@ -1,7 +1,7 @@
 [
     {
+        "id": 1706996,
         "name": "Western Digital WD Blue 7200/64M (WD10EZEX, 1TB)",
-        "product_id": "1706996",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -21,8 +21,8 @@
         "registration_date": "등록월 2012.06"
     },
     {
+        "id": 5173062,
         "name": "Seagate BarraCuda 5400/256M (ST4000DM004, 4TB)",
-        "product_id": "5173062",
         "price": 145000,
         "specs": [
             "HDD (PC용)",
@@ -42,8 +42,8 @@
         "registration_date": "등록월 2017.05"
     },
     {
+        "id": 13522751,
         "name": "Western Digital WD Blue 7200/256M (WD20EZBX, 2TB)",
-        "product_id": "13522751",
         "price": 98360,
         "specs": [
             "HDD (PC용)",
@@ -69,8 +69,8 @@
         "registration_date": "등록월 2021.03."
     },
     {
+        "id": 6545078,
         "name": "Seagate BarraCuda 7200/256M (ST2000DM008, 2TB)",
-        "product_id": "6545078",
         "price": 102840,
         "specs": [
             "HDD (PC용)",
@@ -93,8 +93,8 @@
         "registration_date": "등록월 2018.10."
     },
     {
+        "id": 42286460,
         "name": "Western Digital WD Blue 5640/256M (WD80EAAZ, 8TB)",
-        "product_id": "42286460",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -119,8 +119,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 19965044,
         "name": "Western Digital WD Blue 5400/256M (WD40EZAX, 4TB)",
-        "product_id": "19965044",
         "price": 144260,
         "specs": [
             "HDD (PC용)",
@@ -146,8 +146,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17645129,
         "name": "Western Digital WD Ultrastar DC HC570 7200/512M (WUH722222ALE6L4, 22TB)",
-        "product_id": "17645129",
         "price": 881770,
         "specs": [
             "HDD (기업용)",
@@ -173,8 +173,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 15765761,
         "name": "Western Digital WD Blue 5640/128M (WD80EAZZ, 8TB)",
-        "product_id": "15765761",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -199,8 +199,8 @@
         "registration_date": "등록월 2021.11."
     },
     {
+        "id": 5862779,
         "name": "Western Digital WD MOBILE Blue 5400/128M/노트북용 (WD20SPZX, 2TB)",
-        "product_id": "5862779",
         "price": 138800,
         "specs": [
             "HDD (노트북용)",
@@ -223,8 +223,8 @@
         "registration_date": "등록월 2018.02."
     },
     {
+        "id": 5764992,
         "name": "Seagate BarraCuda 5400/256M (ST8000DM004, 8TB)",
-        "product_id": "5764992",
         "price": 215000,
         "specs": [
             "HDD (PC용)",
@@ -250,8 +250,8 @@
         "registration_date": "등록월 2017.12."
     },
     {
+        "id": 36645527,
         "name": "Seagate IronWolf Pro 7200/512M (ST24000NT002, 24TB)",
-        "product_id": "36645527",
         "price": 1027620,
         "specs": [
             "HDD (NAS용)",
@@ -276,8 +276,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 28400132,
         "name": "Western Digital WD RED Plus 5400/256M (WD40EFPX, 4TB)",
-        "product_id": "28400132",
         "price": 173480,
         "specs": [
             "HDD (NAS용)",
@@ -302,8 +302,8 @@
         "registration_date": "등록월 2023.09."
     },
     {
+        "id": 43923137,
         "name": "Western Digital Ultrastar DC HC580 7200/512M (WUH722424ALE6L4, 24TB)",
-        "product_id": "43923137",
         "price": 939230,
         "specs": [
             "HDD (기업용)",
@@ -327,8 +327,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 33443276,
         "name": "Seagate BarraCuda 7200/256M (ST1000DM014, 1TB)",
-        "product_id": "33443276",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -351,8 +351,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 12068405,
         "name": "Western Digital WD Ultrastar DC HC550 7200/512M (WUH721818ALE6L4, 18TB)",
-        "product_id": "12068405",
         "price": 687290,
         "specs": [
             "HDD (기업용)",
@@ -379,8 +379,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 15016814,
         "name": "Western Digital WD RED Plus 7200/256M (WD120EFBX, 12TB)",
-        "product_id": "15016814",
         "price": 488400,
         "specs": [
             "HDD (NAS용)",
@@ -407,8 +407,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 12068615,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721818ALE6L4 (18TB)",
-        "product_id": "12068615",
         "price": 656350,
         "specs": [
             "HDD (NAS용)",
@@ -437,8 +437,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 7617112,
         "name": "Western Digital Ultrastar DC HC320 박스 패키지 7200/256M HUS728T8TALE6L4 (8TB)",
-        "product_id": "7617112",
         "price": 327070,
         "specs": [
             "HDD (NAS용)",
@@ -467,8 +467,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 7297303,
         "name": "Western Digital Ultrastar DC HC520 7200/256M (HUH721212ALE600, 12TB)",
-        "product_id": "7297303",
         "price": 475980,
         "specs": [
             "HDD (기업용)",
@@ -497,8 +497,8 @@
         "registration_date": "등록월 2019.02."
     },
     {
+        "id": 19618481,
         "name": "Western Digital WD RED Plus 5400/256M (WD60EFPX, 6TB)",
-        "product_id": "19618481",
         "price": 267400,
         "specs": [
             "HDD (NAS용)",
@@ -525,8 +525,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17253821,
         "name": "도시바 P300 7200/256M (HDWD320, 2TB)",
-        "product_id": "17253821",
         "price": 83000,
         "specs": [
             "HDD (PC용)",
@@ -552,8 +552,8 @@
         "registration_date": "등록월 2022.06."
     },
     {
+        "id": 4607468,
         "name": "Seagate BarraCuda 5400/128M/노트북용 (ST2000LM015, 2TB)",
-        "product_id": "4607468",
         "price": 143870,
         "specs": [
             "HDD (노트북용)",
@@ -579,8 +579,8 @@
         "registration_date": "등록월 2016.11."
     },
     {
+        "id": 16638500,
         "name": "Western Digital WD Ultrastar DC HC560 박스 패키지 7200/512M WUH722020ALE6L4 (20TB)",
-        "product_id": "16638500",
         "price": 794480,
         "specs": [
             "HDD (기업용)",
@@ -607,8 +607,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 9348885,
         "name": "Seagate IronWolf Pro 7200/256M (ST4000NE001, 4TB)",
-        "product_id": "9348885",
         "price": 275000,
         "specs": [
             "HDD (NAS용)",
@@ -635,8 +635,8 @@
         "registration_date": "등록월 2019.08."
     },
     {
+        "id": 6443797,
         "name": "Western Digital Ultrastar DC HC310 7200/256M (HUS726T4TALA6L4, 4TB)",
-        "product_id": "6443797",
         "price": 214360,
         "specs": [
             "HDD (기업용)",
@@ -666,8 +666,8 @@
         "registration_date": "등록월 2018.09."
     },
     {
+        "id": 7080283,
         "name": "Western Digital Ultrastar DC HC530 7200/512M (WUH721414ALE6L4, 14TB)",
-        "product_id": "7080283",
         "price": 573480,
         "specs": [
             "HDD (기업용)",
@@ -699,8 +699,8 @@
         "registration_date": "등록월 2019.01."
     },
     {
+        "id": 7617292,
         "name": "Western Digital Ultrastar DC HC530 박스 패키지 7200/512M WUH721414ALE6L4 (14TB)",
-        "product_id": "7617292",
         "price": 550280,
         "specs": [
             "HDD (NAS용)",
@@ -732,8 +732,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 12068573,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4 (16TB)",
-        "product_id": "12068573",
         "price": 613260,
         "specs": [
             "HDD (NAS용)",
@@ -762,8 +762,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 16553759,
         "name": "Seagate IronWolf 7200/256M (ST10000VN000, 10TB)",
-        "product_id": "16553759",
         "price": 449000,
         "specs": [
             "HDD (NAS용)",
@@ -789,8 +789,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 17726294,
         "name": "Seagate IronWolf Pro 7200/256M (ST2000NE001, 2TB)",
-        "product_id": "17726294",
         "price": 199000,
         "specs": [
             "HDD (NAS용)",
@@ -817,8 +817,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 1706996,
         "name": "Western Digital WD Blue 7200/64M (WD10EZEX, 1TB)",
-        "product_id": "1706996",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -838,8 +838,8 @@
         "registration_date": "등록월 2012.06"
     },
     {
+        "id": 5173062,
         "name": "Seagate BarraCuda 5400/256M (ST4000DM004, 4TB)",
-        "product_id": "5173062",
         "price": 145000,
         "specs": [
             "HDD (PC용)",
@@ -859,8 +859,8 @@
         "registration_date": "등록월 2017.05"
     },
     {
+        "id": 13522751,
         "name": "Western Digital WD Blue 7200/256M (WD20EZBX, 2TB)",
-        "product_id": "13522751",
         "price": 98360,
         "specs": [
             "HDD (PC용)",
@@ -886,8 +886,8 @@
         "registration_date": "등록월 2021.03."
     },
     {
+        "id": 6545078,
         "name": "Seagate BarraCuda 7200/256M (ST2000DM008, 2TB)",
-        "product_id": "6545078",
         "price": 102840,
         "specs": [
             "HDD (PC용)",
@@ -910,8 +910,8 @@
         "registration_date": "등록월 2018.10."
     },
     {
+        "id": 42286460,
         "name": "Western Digital WD Blue 5640/256M (WD80EAAZ, 8TB)",
-        "product_id": "42286460",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -936,8 +936,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 19965044,
         "name": "Western Digital WD Blue 5400/256M (WD40EZAX, 4TB)",
-        "product_id": "19965044",
         "price": 144260,
         "specs": [
             "HDD (PC용)",
@@ -963,8 +963,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17645129,
         "name": "Western Digital WD Ultrastar DC HC570 7200/512M (WUH722222ALE6L4, 22TB)",
-        "product_id": "17645129",
         "price": 881770,
         "specs": [
             "HDD (기업용)",
@@ -990,8 +990,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 15765761,
         "name": "Western Digital WD Blue 5640/128M (WD80EAZZ, 8TB)",
-        "product_id": "15765761",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -1016,8 +1016,8 @@
         "registration_date": "등록월 2021.11."
     },
     {
+        "id": 5862779,
         "name": "Western Digital WD MOBILE Blue 5400/128M/노트북용 (WD20SPZX, 2TB)",
-        "product_id": "5862779",
         "price": 138800,
         "specs": [
             "HDD (노트북용)",
@@ -1040,8 +1040,8 @@
         "registration_date": "등록월 2018.02."
     },
     {
+        "id": 5764992,
         "name": "Seagate BarraCuda 5400/256M (ST8000DM004, 8TB)",
-        "product_id": "5764992",
         "price": 215000,
         "specs": [
             "HDD (PC용)",
@@ -1067,8 +1067,8 @@
         "registration_date": "등록월 2017.12."
     },
     {
+        "id": 36645527,
         "name": "Seagate IronWolf Pro 7200/512M (ST24000NT002, 24TB)",
-        "product_id": "36645527",
         "price": 1027620,
         "specs": [
             "HDD (NAS용)",
@@ -1093,8 +1093,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 28400132,
         "name": "Western Digital WD RED Plus 5400/256M (WD40EFPX, 4TB)",
-        "product_id": "28400132",
         "price": 173480,
         "specs": [
             "HDD (NAS용)",
@@ -1119,8 +1119,8 @@
         "registration_date": "등록월 2023.09."
     },
     {
+        "id": 43923137,
         "name": "Western Digital Ultrastar DC HC580 7200/512M (WUH722424ALE6L4, 24TB)",
-        "product_id": "43923137",
         "price": 939230,
         "specs": [
             "HDD (기업용)",
@@ -1144,8 +1144,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 33443276,
         "name": "Seagate BarraCuda 7200/256M (ST1000DM014, 1TB)",
-        "product_id": "33443276",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -1168,8 +1168,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 12068405,
         "name": "Western Digital WD Ultrastar DC HC550 7200/512M (WUH721818ALE6L4, 18TB)",
-        "product_id": "12068405",
         "price": 687290,
         "specs": [
             "HDD (기업용)",
@@ -1196,8 +1196,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 15016814,
         "name": "Western Digital WD RED Plus 7200/256M (WD120EFBX, 12TB)",
-        "product_id": "15016814",
         "price": 488400,
         "specs": [
             "HDD (NAS용)",
@@ -1224,8 +1224,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 12068615,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721818ALE6L4 (18TB)",
-        "product_id": "12068615",
         "price": 656350,
         "specs": [
             "HDD (NAS용)",
@@ -1254,8 +1254,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 7617112,
         "name": "Western Digital Ultrastar DC HC320 박스 패키지 7200/256M HUS728T8TALE6L4 (8TB)",
-        "product_id": "7617112",
         "price": 327070,
         "specs": [
             "HDD (NAS용)",
@@ -1284,8 +1284,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 7297303,
         "name": "Western Digital Ultrastar DC HC520 7200/256M (HUH721212ALE600, 12TB)",
-        "product_id": "7297303",
         "price": 475980,
         "specs": [
             "HDD (기업용)",
@@ -1314,8 +1314,8 @@
         "registration_date": "등록월 2019.02."
     },
     {
+        "id": 19618481,
         "name": "Western Digital WD RED Plus 5400/256M (WD60EFPX, 6TB)",
-        "product_id": "19618481",
         "price": 267400,
         "specs": [
             "HDD (NAS용)",
@@ -1342,8 +1342,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17253821,
         "name": "도시바 P300 7200/256M (HDWD320, 2TB)",
-        "product_id": "17253821",
         "price": 83000,
         "specs": [
             "HDD (PC용)",
@@ -1369,8 +1369,8 @@
         "registration_date": "등록월 2022.06."
     },
     {
+        "id": 4607468,
         "name": "Seagate BarraCuda 5400/128M/노트북용 (ST2000LM015, 2TB)",
-        "product_id": "4607468",
         "price": 143870,
         "specs": [
             "HDD (노트북용)",
@@ -1396,8 +1396,8 @@
         "registration_date": "등록월 2016.11."
     },
     {
+        "id": 16638500,
         "name": "Western Digital WD Ultrastar DC HC560 박스 패키지 7200/512M WUH722020ALE6L4 (20TB)",
-        "product_id": "16638500",
         "price": 794480,
         "specs": [
             "HDD (기업용)",
@@ -1424,8 +1424,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 9348885,
         "name": "Seagate IronWolf Pro 7200/256M (ST4000NE001, 4TB)",
-        "product_id": "9348885",
         "price": 275000,
         "specs": [
             "HDD (NAS용)",
@@ -1452,8 +1452,8 @@
         "registration_date": "등록월 2019.08."
     },
     {
+        "id": 6443797,
         "name": "Western Digital Ultrastar DC HC310 7200/256M (HUS726T4TALA6L4, 4TB)",
-        "product_id": "6443797",
         "price": 214360,
         "specs": [
             "HDD (기업용)",
@@ -1483,8 +1483,8 @@
         "registration_date": "등록월 2018.09."
     },
     {
+        "id": 7080283,
         "name": "Western Digital Ultrastar DC HC530 7200/512M (WUH721414ALE6L4, 14TB)",
-        "product_id": "7080283",
         "price": 573480,
         "specs": [
             "HDD (기업용)",
@@ -1516,8 +1516,8 @@
         "registration_date": "등록월 2019.01."
     },
     {
+        "id": 7617292,
         "name": "Western Digital Ultrastar DC HC530 박스 패키지 7200/512M WUH721414ALE6L4 (14TB)",
-        "product_id": "7617292",
         "price": 550280,
         "specs": [
             "HDD (NAS용)",
@@ -1549,8 +1549,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 12068573,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4 (16TB)",
-        "product_id": "12068573",
         "price": 613260,
         "specs": [
             "HDD (NAS용)",
@@ -1579,8 +1579,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 16553759,
         "name": "Seagate IronWolf 7200/256M (ST10000VN000, 10TB)",
-        "product_id": "16553759",
         "price": 449000,
         "specs": [
             "HDD (NAS용)",
@@ -1606,8 +1606,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 17726294,
         "name": "Seagate IronWolf Pro 7200/256M (ST2000NE001, 2TB)",
-        "product_id": "17726294",
         "price": 199000,
         "specs": [
             "HDD (NAS용)",
@@ -1634,8 +1634,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 1706996,
         "name": "Western Digital WD Blue 7200/64M (WD10EZEX, 1TB)",
-        "product_id": "1706996",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -1655,8 +1655,8 @@
         "registration_date": "등록월 2012.06"
     },
     {
+        "id": 5173062,
         "name": "Seagate BarraCuda 5400/256M (ST4000DM004, 4TB)",
-        "product_id": "5173062",
         "price": 145000,
         "specs": [
             "HDD (PC용)",
@@ -1676,8 +1676,8 @@
         "registration_date": "등록월 2017.05"
     },
     {
+        "id": 13522751,
         "name": "Western Digital WD Blue 7200/256M (WD20EZBX, 2TB)",
-        "product_id": "13522751",
         "price": 98360,
         "specs": [
             "HDD (PC용)",
@@ -1703,8 +1703,8 @@
         "registration_date": "등록월 2021.03."
     },
     {
+        "id": 6545078,
         "name": "Seagate BarraCuda 7200/256M (ST2000DM008, 2TB)",
-        "product_id": "6545078",
         "price": 102840,
         "specs": [
             "HDD (PC용)",
@@ -1727,8 +1727,8 @@
         "registration_date": "등록월 2018.10."
     },
     {
+        "id": 42286460,
         "name": "Western Digital WD Blue 5640/256M (WD80EAAZ, 8TB)",
-        "product_id": "42286460",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -1753,8 +1753,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 19965044,
         "name": "Western Digital WD Blue 5400/256M (WD40EZAX, 4TB)",
-        "product_id": "19965044",
         "price": 144260,
         "specs": [
             "HDD (PC용)",
@@ -1780,8 +1780,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17645129,
         "name": "Western Digital WD Ultrastar DC HC570 7200/512M (WUH722222ALE6L4, 22TB)",
-        "product_id": "17645129",
         "price": 881770,
         "specs": [
             "HDD (기업용)",
@@ -1807,8 +1807,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 15765761,
         "name": "Western Digital WD Blue 5640/128M (WD80EAZZ, 8TB)",
-        "product_id": "15765761",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -1833,8 +1833,8 @@
         "registration_date": "등록월 2021.11."
     },
     {
+        "id": 5862779,
         "name": "Western Digital WD MOBILE Blue 5400/128M/노트북용 (WD20SPZX, 2TB)",
-        "product_id": "5862779",
         "price": 138800,
         "specs": [
             "HDD (노트북용)",
@@ -1857,8 +1857,8 @@
         "registration_date": "등록월 2018.02."
     },
     {
+        "id": 5764992,
         "name": "Seagate BarraCuda 5400/256M (ST8000DM004, 8TB)",
-        "product_id": "5764992",
         "price": 215000,
         "specs": [
             "HDD (PC용)",
@@ -1884,8 +1884,8 @@
         "registration_date": "등록월 2017.12."
     },
     {
+        "id": 36645527,
         "name": "Seagate IronWolf Pro 7200/512M (ST24000NT002, 24TB)",
-        "product_id": "36645527",
         "price": 1027620,
         "specs": [
             "HDD (NAS용)",
@@ -1910,8 +1910,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 28400132,
         "name": "Western Digital WD RED Plus 5400/256M (WD40EFPX, 4TB)",
-        "product_id": "28400132",
         "price": 173480,
         "specs": [
             "HDD (NAS용)",
@@ -1936,8 +1936,8 @@
         "registration_date": "등록월 2023.09."
     },
     {
+        "id": 43923137,
         "name": "Western Digital Ultrastar DC HC580 7200/512M (WUH722424ALE6L4, 24TB)",
-        "product_id": "43923137",
         "price": 939230,
         "specs": [
             "HDD (기업용)",
@@ -1961,8 +1961,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 33443276,
         "name": "Seagate BarraCuda 7200/256M (ST1000DM014, 1TB)",
-        "product_id": "33443276",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -1985,8 +1985,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 12068405,
         "name": "Western Digital WD Ultrastar DC HC550 7200/512M (WUH721818ALE6L4, 18TB)",
-        "product_id": "12068405",
         "price": 687290,
         "specs": [
             "HDD (기업용)",
@@ -2013,8 +2013,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 15016814,
         "name": "Western Digital WD RED Plus 7200/256M (WD120EFBX, 12TB)",
-        "product_id": "15016814",
         "price": 488400,
         "specs": [
             "HDD (NAS용)",
@@ -2041,8 +2041,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 12068615,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721818ALE6L4 (18TB)",
-        "product_id": "12068615",
         "price": 656350,
         "specs": [
             "HDD (NAS용)",
@@ -2071,8 +2071,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 7617112,
         "name": "Western Digital Ultrastar DC HC320 박스 패키지 7200/256M HUS728T8TALE6L4 (8TB)",
-        "product_id": "7617112",
         "price": 327070,
         "specs": [
             "HDD (NAS용)",
@@ -2101,8 +2101,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 7297303,
         "name": "Western Digital Ultrastar DC HC520 7200/256M (HUH721212ALE600, 12TB)",
-        "product_id": "7297303",
         "price": 475980,
         "specs": [
             "HDD (기업용)",
@@ -2131,8 +2131,8 @@
         "registration_date": "등록월 2019.02."
     },
     {
+        "id": 19618481,
         "name": "Western Digital WD RED Plus 5400/256M (WD60EFPX, 6TB)",
-        "product_id": "19618481",
         "price": 267400,
         "specs": [
             "HDD (NAS용)",
@@ -2159,8 +2159,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17253821,
         "name": "도시바 P300 7200/256M (HDWD320, 2TB)",
-        "product_id": "17253821",
         "price": 83000,
         "specs": [
             "HDD (PC용)",
@@ -2186,8 +2186,8 @@
         "registration_date": "등록월 2022.06."
     },
     {
+        "id": 4607468,
         "name": "Seagate BarraCuda 5400/128M/노트북용 (ST2000LM015, 2TB)",
-        "product_id": "4607468",
         "price": 143870,
         "specs": [
             "HDD (노트북용)",
@@ -2213,8 +2213,8 @@
         "registration_date": "등록월 2016.11."
     },
     {
+        "id": 16638500,
         "name": "Western Digital WD Ultrastar DC HC560 박스 패키지 7200/512M WUH722020ALE6L4 (20TB)",
-        "product_id": "16638500",
         "price": 794480,
         "specs": [
             "HDD (기업용)",
@@ -2241,8 +2241,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 9348885,
         "name": "Seagate IronWolf Pro 7200/256M (ST4000NE001, 4TB)",
-        "product_id": "9348885",
         "price": 275000,
         "specs": [
             "HDD (NAS용)",
@@ -2269,8 +2269,8 @@
         "registration_date": "등록월 2019.08."
     },
     {
+        "id": 6443797,
         "name": "Western Digital Ultrastar DC HC310 7200/256M (HUS726T4TALA6L4, 4TB)",
-        "product_id": "6443797",
         "price": 214360,
         "specs": [
             "HDD (기업용)",
@@ -2300,8 +2300,8 @@
         "registration_date": "등록월 2018.09."
     },
     {
+        "id": 7080283,
         "name": "Western Digital Ultrastar DC HC530 7200/512M (WUH721414ALE6L4, 14TB)",
-        "product_id": "7080283",
         "price": 573480,
         "specs": [
             "HDD (기업용)",
@@ -2333,8 +2333,8 @@
         "registration_date": "등록월 2019.01."
     },
     {
+        "id": 7617292,
         "name": "Western Digital Ultrastar DC HC530 박스 패키지 7200/512M WUH721414ALE6L4 (14TB)",
-        "product_id": "7617292",
         "price": 550280,
         "specs": [
             "HDD (NAS용)",
@@ -2366,8 +2366,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 12068573,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4 (16TB)",
-        "product_id": "12068573",
         "price": 613260,
         "specs": [
             "HDD (NAS용)",
@@ -2396,8 +2396,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 16553759,
         "name": "Seagate IronWolf 7200/256M (ST10000VN000, 10TB)",
-        "product_id": "16553759",
         "price": 449000,
         "specs": [
             "HDD (NAS용)",
@@ -2423,8 +2423,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 17726294,
         "name": "Seagate IronWolf Pro 7200/256M (ST2000NE001, 2TB)",
-        "product_id": "17726294",
         "price": 199000,
         "specs": [
             "HDD (NAS용)",
@@ -2451,8 +2451,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 1706996,
         "name": "Western Digital WD Blue 7200/64M (WD10EZEX, 1TB)",
-        "product_id": "1706996",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -2472,8 +2472,8 @@
         "registration_date": "등록월 2012.06"
     },
     {
+        "id": 5173062,
         "name": "Seagate BarraCuda 5400/256M (ST4000DM004, 4TB)",
-        "product_id": "5173062",
         "price": 145000,
         "specs": [
             "HDD (PC용)",
@@ -2493,8 +2493,8 @@
         "registration_date": "등록월 2017.05"
     },
     {
+        "id": 13522751,
         "name": "Western Digital WD Blue 7200/256M (WD20EZBX, 2TB)",
-        "product_id": "13522751",
         "price": 98360,
         "specs": [
             "HDD (PC용)",
@@ -2520,8 +2520,8 @@
         "registration_date": "등록월 2021.03."
     },
     {
+        "id": 6545078,
         "name": "Seagate BarraCuda 7200/256M (ST2000DM008, 2TB)",
-        "product_id": "6545078",
         "price": 102840,
         "specs": [
             "HDD (PC용)",
@@ -2544,8 +2544,8 @@
         "registration_date": "등록월 2018.10."
     },
     {
+        "id": 42286460,
         "name": "Western Digital WD Blue 5640/256M (WD80EAAZ, 8TB)",
-        "product_id": "42286460",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -2570,8 +2570,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 19965044,
         "name": "Western Digital WD Blue 5400/256M (WD40EZAX, 4TB)",
-        "product_id": "19965044",
         "price": 144260,
         "specs": [
             "HDD (PC용)",
@@ -2597,8 +2597,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17645129,
         "name": "Western Digital WD Ultrastar DC HC570 7200/512M (WUH722222ALE6L4, 22TB)",
-        "product_id": "17645129",
         "price": 881770,
         "specs": [
             "HDD (기업용)",
@@ -2624,8 +2624,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 15765761,
         "name": "Western Digital WD Blue 5640/128M (WD80EAZZ, 8TB)",
-        "product_id": "15765761",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -2650,8 +2650,8 @@
         "registration_date": "등록월 2021.11."
     },
     {
+        "id": 5862779,
         "name": "Western Digital WD MOBILE Blue 5400/128M/노트북용 (WD20SPZX, 2TB)",
-        "product_id": "5862779",
         "price": 138800,
         "specs": [
             "HDD (노트북용)",
@@ -2674,8 +2674,8 @@
         "registration_date": "등록월 2018.02."
     },
     {
+        "id": 5764992,
         "name": "Seagate BarraCuda 5400/256M (ST8000DM004, 8TB)",
-        "product_id": "5764992",
         "price": 215000,
         "specs": [
             "HDD (PC용)",
@@ -2701,8 +2701,8 @@
         "registration_date": "등록월 2017.12."
     },
     {
+        "id": 36645527,
         "name": "Seagate IronWolf Pro 7200/512M (ST24000NT002, 24TB)",
-        "product_id": "36645527",
         "price": 1027620,
         "specs": [
             "HDD (NAS용)",
@@ -2727,8 +2727,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 28400132,
         "name": "Western Digital WD RED Plus 5400/256M (WD40EFPX, 4TB)",
-        "product_id": "28400132",
         "price": 173480,
         "specs": [
             "HDD (NAS용)",
@@ -2753,8 +2753,8 @@
         "registration_date": "등록월 2023.09."
     },
     {
+        "id": 43923137,
         "name": "Western Digital Ultrastar DC HC580 7200/512M (WUH722424ALE6L4, 24TB)",
-        "product_id": "43923137",
         "price": 939230,
         "specs": [
             "HDD (기업용)",
@@ -2778,8 +2778,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 33443276,
         "name": "Seagate BarraCuda 7200/256M (ST1000DM014, 1TB)",
-        "product_id": "33443276",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -2802,8 +2802,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 12068405,
         "name": "Western Digital WD Ultrastar DC HC550 7200/512M (WUH721818ALE6L4, 18TB)",
-        "product_id": "12068405",
         "price": 687290,
         "specs": [
             "HDD (기업용)",
@@ -2830,8 +2830,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 15016814,
         "name": "Western Digital WD RED Plus 7200/256M (WD120EFBX, 12TB)",
-        "product_id": "15016814",
         "price": 488400,
         "specs": [
             "HDD (NAS용)",
@@ -2858,8 +2858,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 12068615,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721818ALE6L4 (18TB)",
-        "product_id": "12068615",
         "price": 656350,
         "specs": [
             "HDD (NAS용)",
@@ -2888,8 +2888,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 7617112,
         "name": "Western Digital Ultrastar DC HC320 박스 패키지 7200/256M HUS728T8TALE6L4 (8TB)",
-        "product_id": "7617112",
         "price": 327070,
         "specs": [
             "HDD (NAS용)",
@@ -2918,8 +2918,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 7297303,
         "name": "Western Digital Ultrastar DC HC520 7200/256M (HUH721212ALE600, 12TB)",
-        "product_id": "7297303",
         "price": 475980,
         "specs": [
             "HDD (기업용)",
@@ -2948,8 +2948,8 @@
         "registration_date": "등록월 2019.02."
     },
     {
+        "id": 19618481,
         "name": "Western Digital WD RED Plus 5400/256M (WD60EFPX, 6TB)",
-        "product_id": "19618481",
         "price": 267400,
         "specs": [
             "HDD (NAS용)",
@@ -2976,8 +2976,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17253821,
         "name": "도시바 P300 7200/256M (HDWD320, 2TB)",
-        "product_id": "17253821",
         "price": 83000,
         "specs": [
             "HDD (PC용)",
@@ -3003,8 +3003,8 @@
         "registration_date": "등록월 2022.06."
     },
     {
+        "id": 4607468,
         "name": "Seagate BarraCuda 5400/128M/노트북용 (ST2000LM015, 2TB)",
-        "product_id": "4607468",
         "price": 143870,
         "specs": [
             "HDD (노트북용)",
@@ -3030,8 +3030,8 @@
         "registration_date": "등록월 2016.11."
     },
     {
+        "id": 16638500,
         "name": "Western Digital WD Ultrastar DC HC560 박스 패키지 7200/512M WUH722020ALE6L4 (20TB)",
-        "product_id": "16638500",
         "price": 794480,
         "specs": [
             "HDD (기업용)",
@@ -3058,8 +3058,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 9348885,
         "name": "Seagate IronWolf Pro 7200/256M (ST4000NE001, 4TB)",
-        "product_id": "9348885",
         "price": 275000,
         "specs": [
             "HDD (NAS용)",
@@ -3086,8 +3086,8 @@
         "registration_date": "등록월 2019.08."
     },
     {
+        "id": 6443797,
         "name": "Western Digital Ultrastar DC HC310 7200/256M (HUS726T4TALA6L4, 4TB)",
-        "product_id": "6443797",
         "price": 214360,
         "specs": [
             "HDD (기업용)",
@@ -3117,8 +3117,8 @@
         "registration_date": "등록월 2018.09."
     },
     {
+        "id": 7080283,
         "name": "Western Digital Ultrastar DC HC530 7200/512M (WUH721414ALE6L4, 14TB)",
-        "product_id": "7080283",
         "price": 573480,
         "specs": [
             "HDD (기업용)",
@@ -3150,8 +3150,8 @@
         "registration_date": "등록월 2019.01."
     },
     {
+        "id": 7617292,
         "name": "Western Digital Ultrastar DC HC530 박스 패키지 7200/512M WUH721414ALE6L4 (14TB)",
-        "product_id": "7617292",
         "price": 550280,
         "specs": [
             "HDD (NAS용)",
@@ -3183,8 +3183,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 12068573,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4 (16TB)",
-        "product_id": "12068573",
         "price": 613260,
         "specs": [
             "HDD (NAS용)",
@@ -3213,8 +3213,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 16553759,
         "name": "Seagate IronWolf 7200/256M (ST10000VN000, 10TB)",
-        "product_id": "16553759",
         "price": 449000,
         "specs": [
             "HDD (NAS용)",
@@ -3240,8 +3240,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 17726294,
         "name": "Seagate IronWolf Pro 7200/256M (ST2000NE001, 2TB)",
-        "product_id": "17726294",
         "price": 199000,
         "specs": [
             "HDD (NAS용)",
@@ -3268,8 +3268,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 1706996,
         "name": "Western Digital WD Blue 7200/64M (WD10EZEX, 1TB)",
-        "product_id": "1706996",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -3289,8 +3289,8 @@
         "registration_date": "등록월 2012.06"
     },
     {
+        "id": 5173062,
         "name": "Seagate BarraCuda 5400/256M (ST4000DM004, 4TB)",
-        "product_id": "5173062",
         "price": 145000,
         "specs": [
             "HDD (PC용)",
@@ -3310,8 +3310,8 @@
         "registration_date": "등록월 2017.05"
     },
     {
+        "id": 13522751,
         "name": "Western Digital WD Blue 7200/256M (WD20EZBX, 2TB)",
-        "product_id": "13522751",
         "price": 98360,
         "specs": [
             "HDD (PC용)",
@@ -3337,8 +3337,8 @@
         "registration_date": "등록월 2021.03."
     },
     {
+        "id": 6545078,
         "name": "Seagate BarraCuda 7200/256M (ST2000DM008, 2TB)",
-        "product_id": "6545078",
         "price": 102840,
         "specs": [
             "HDD (PC용)",
@@ -3361,8 +3361,8 @@
         "registration_date": "등록월 2018.10."
     },
     {
+        "id": 42286460,
         "name": "Western Digital WD Blue 5640/256M (WD80EAAZ, 8TB)",
-        "product_id": "42286460",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -3387,8 +3387,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 19965044,
         "name": "Western Digital WD Blue 5400/256M (WD40EZAX, 4TB)",
-        "product_id": "19965044",
         "price": 144260,
         "specs": [
             "HDD (PC용)",
@@ -3414,8 +3414,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17645129,
         "name": "Western Digital WD Ultrastar DC HC570 7200/512M (WUH722222ALE6L4, 22TB)",
-        "product_id": "17645129",
         "price": 881770,
         "specs": [
             "HDD (기업용)",
@@ -3441,8 +3441,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 15765761,
         "name": "Western Digital WD Blue 5640/128M (WD80EAZZ, 8TB)",
-        "product_id": "15765761",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -3467,8 +3467,8 @@
         "registration_date": "등록월 2021.11."
     },
     {
+        "id": 5862779,
         "name": "Western Digital WD MOBILE Blue 5400/128M/노트북용 (WD20SPZX, 2TB)",
-        "product_id": "5862779",
         "price": 138800,
         "specs": [
             "HDD (노트북용)",
@@ -3491,8 +3491,8 @@
         "registration_date": "등록월 2018.02."
     },
     {
+        "id": 5764992,
         "name": "Seagate BarraCuda 5400/256M (ST8000DM004, 8TB)",
-        "product_id": "5764992",
         "price": 215000,
         "specs": [
             "HDD (PC용)",
@@ -3518,8 +3518,8 @@
         "registration_date": "등록월 2017.12."
     },
     {
+        "id": 36645527,
         "name": "Seagate IronWolf Pro 7200/512M (ST24000NT002, 24TB)",
-        "product_id": "36645527",
         "price": 1027620,
         "specs": [
             "HDD (NAS용)",
@@ -3544,8 +3544,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 28400132,
         "name": "Western Digital WD RED Plus 5400/256M (WD40EFPX, 4TB)",
-        "product_id": "28400132",
         "price": 173480,
         "specs": [
             "HDD (NAS용)",
@@ -3570,8 +3570,8 @@
         "registration_date": "등록월 2023.09."
     },
     {
+        "id": 43923137,
         "name": "Western Digital Ultrastar DC HC580 7200/512M (WUH722424ALE6L4, 24TB)",
-        "product_id": "43923137",
         "price": 939230,
         "specs": [
             "HDD (기업용)",
@@ -3595,8 +3595,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 33443276,
         "name": "Seagate BarraCuda 7200/256M (ST1000DM014, 1TB)",
-        "product_id": "33443276",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -3619,8 +3619,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 12068405,
         "name": "Western Digital WD Ultrastar DC HC550 7200/512M (WUH721818ALE6L4, 18TB)",
-        "product_id": "12068405",
         "price": 687290,
         "specs": [
             "HDD (기업용)",
@@ -3647,8 +3647,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 15016814,
         "name": "Western Digital WD RED Plus 7200/256M (WD120EFBX, 12TB)",
-        "product_id": "15016814",
         "price": 488400,
         "specs": [
             "HDD (NAS용)",
@@ -3675,8 +3675,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 12068615,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721818ALE6L4 (18TB)",
-        "product_id": "12068615",
         "price": 656350,
         "specs": [
             "HDD (NAS용)",
@@ -3705,8 +3705,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 7617112,
         "name": "Western Digital Ultrastar DC HC320 박스 패키지 7200/256M HUS728T8TALE6L4 (8TB)",
-        "product_id": "7617112",
         "price": 327070,
         "specs": [
             "HDD (NAS용)",
@@ -3735,8 +3735,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 7297303,
         "name": "Western Digital Ultrastar DC HC520 7200/256M (HUH721212ALE600, 12TB)",
-        "product_id": "7297303",
         "price": 475980,
         "specs": [
             "HDD (기업용)",
@@ -3765,8 +3765,8 @@
         "registration_date": "등록월 2019.02."
     },
     {
+        "id": 19618481,
         "name": "Western Digital WD RED Plus 5400/256M (WD60EFPX, 6TB)",
-        "product_id": "19618481",
         "price": 267400,
         "specs": [
             "HDD (NAS용)",
@@ -3793,8 +3793,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17253821,
         "name": "도시바 P300 7200/256M (HDWD320, 2TB)",
-        "product_id": "17253821",
         "price": 83000,
         "specs": [
             "HDD (PC용)",
@@ -3820,8 +3820,8 @@
         "registration_date": "등록월 2022.06."
     },
     {
+        "id": 4607468,
         "name": "Seagate BarraCuda 5400/128M/노트북용 (ST2000LM015, 2TB)",
-        "product_id": "4607468",
         "price": 143870,
         "specs": [
             "HDD (노트북용)",
@@ -3847,8 +3847,8 @@
         "registration_date": "등록월 2016.11."
     },
     {
+        "id": 16638500,
         "name": "Western Digital WD Ultrastar DC HC560 박스 패키지 7200/512M WUH722020ALE6L4 (20TB)",
-        "product_id": "16638500",
         "price": 794480,
         "specs": [
             "HDD (기업용)",
@@ -3875,8 +3875,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 9348885,
         "name": "Seagate IronWolf Pro 7200/256M (ST4000NE001, 4TB)",
-        "product_id": "9348885",
         "price": 275000,
         "specs": [
             "HDD (NAS용)",
@@ -3903,8 +3903,8 @@
         "registration_date": "등록월 2019.08."
     },
     {
+        "id": 6443797,
         "name": "Western Digital Ultrastar DC HC310 7200/256M (HUS726T4TALA6L4, 4TB)",
-        "product_id": "6443797",
         "price": 214360,
         "specs": [
             "HDD (기업용)",
@@ -3934,8 +3934,8 @@
         "registration_date": "등록월 2018.09."
     },
     {
+        "id": 7080283,
         "name": "Western Digital Ultrastar DC HC530 7200/512M (WUH721414ALE6L4, 14TB)",
-        "product_id": "7080283",
         "price": 573480,
         "specs": [
             "HDD (기업용)",
@@ -3967,8 +3967,8 @@
         "registration_date": "등록월 2019.01."
     },
     {
+        "id": 7617292,
         "name": "Western Digital Ultrastar DC HC530 박스 패키지 7200/512M WUH721414ALE6L4 (14TB)",
-        "product_id": "7617292",
         "price": 550280,
         "specs": [
             "HDD (NAS용)",
@@ -4000,8 +4000,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 12068573,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4 (16TB)",
-        "product_id": "12068573",
         "price": 613260,
         "specs": [
             "HDD (NAS용)",
@@ -4030,8 +4030,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 16553759,
         "name": "Seagate IronWolf 7200/256M (ST10000VN000, 10TB)",
-        "product_id": "16553759",
         "price": 449000,
         "specs": [
             "HDD (NAS용)",
@@ -4057,8 +4057,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 17726294,
         "name": "Seagate IronWolf Pro 7200/256M (ST2000NE001, 2TB)",
-        "product_id": "17726294",
         "price": 199000,
         "specs": [
             "HDD (NAS용)",
@@ -4085,8 +4085,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 1706996,
         "name": "Western Digital WD Blue 7200/64M (WD10EZEX, 1TB)",
-        "product_id": "1706996",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -4106,8 +4106,8 @@
         "registration_date": "등록월 2012.06"
     },
     {
+        "id": 5173062,
         "name": "Seagate BarraCuda 5400/256M (ST4000DM004, 4TB)",
-        "product_id": "5173062",
         "price": 145000,
         "specs": [
             "HDD (PC용)",
@@ -4127,8 +4127,8 @@
         "registration_date": "등록월 2017.05"
     },
     {
+        "id": 13522751,
         "name": "Western Digital WD Blue 7200/256M (WD20EZBX, 2TB)",
-        "product_id": "13522751",
         "price": 98360,
         "specs": [
             "HDD (PC용)",
@@ -4154,8 +4154,8 @@
         "registration_date": "등록월 2021.03."
     },
     {
+        "id": 6545078,
         "name": "Seagate BarraCuda 7200/256M (ST2000DM008, 2TB)",
-        "product_id": "6545078",
         "price": 102840,
         "specs": [
             "HDD (PC용)",
@@ -4178,8 +4178,8 @@
         "registration_date": "등록월 2018.10."
     },
     {
+        "id": 42286460,
         "name": "Western Digital WD Blue 5640/256M (WD80EAAZ, 8TB)",
-        "product_id": "42286460",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -4204,8 +4204,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 19965044,
         "name": "Western Digital WD Blue 5400/256M (WD40EZAX, 4TB)",
-        "product_id": "19965044",
         "price": 144260,
         "specs": [
             "HDD (PC용)",
@@ -4231,8 +4231,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17645129,
         "name": "Western Digital WD Ultrastar DC HC570 7200/512M (WUH722222ALE6L4, 22TB)",
-        "product_id": "17645129",
         "price": 881770,
         "specs": [
             "HDD (기업용)",
@@ -4258,8 +4258,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 15765761,
         "name": "Western Digital WD Blue 5640/128M (WD80EAZZ, 8TB)",
-        "product_id": "15765761",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -4284,8 +4284,8 @@
         "registration_date": "등록월 2021.11."
     },
     {
+        "id": 5862779,
         "name": "Western Digital WD MOBILE Blue 5400/128M/노트북용 (WD20SPZX, 2TB)",
-        "product_id": "5862779",
         "price": 138800,
         "specs": [
             "HDD (노트북용)",
@@ -4308,8 +4308,8 @@
         "registration_date": "등록월 2018.02."
     },
     {
+        "id": 5764992,
         "name": "Seagate BarraCuda 5400/256M (ST8000DM004, 8TB)",
-        "product_id": "5764992",
         "price": 215000,
         "specs": [
             "HDD (PC용)",
@@ -4335,8 +4335,8 @@
         "registration_date": "등록월 2017.12."
     },
     {
+        "id": 36645527,
         "name": "Seagate IronWolf Pro 7200/512M (ST24000NT002, 24TB)",
-        "product_id": "36645527",
         "price": 1027620,
         "specs": [
             "HDD (NAS용)",
@@ -4361,8 +4361,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 28400132,
         "name": "Western Digital WD RED Plus 5400/256M (WD40EFPX, 4TB)",
-        "product_id": "28400132",
         "price": 173480,
         "specs": [
             "HDD (NAS용)",
@@ -4387,8 +4387,8 @@
         "registration_date": "등록월 2023.09."
     },
     {
+        "id": 43923137,
         "name": "Western Digital Ultrastar DC HC580 7200/512M (WUH722424ALE6L4, 24TB)",
-        "product_id": "43923137",
         "price": 939230,
         "specs": [
             "HDD (기업용)",
@@ -4412,8 +4412,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 33443276,
         "name": "Seagate BarraCuda 7200/256M (ST1000DM014, 1TB)",
-        "product_id": "33443276",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -4436,8 +4436,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 12068405,
         "name": "Western Digital WD Ultrastar DC HC550 7200/512M (WUH721818ALE6L4, 18TB)",
-        "product_id": "12068405",
         "price": 687290,
         "specs": [
             "HDD (기업용)",
@@ -4464,8 +4464,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 15016814,
         "name": "Western Digital WD RED Plus 7200/256M (WD120EFBX, 12TB)",
-        "product_id": "15016814",
         "price": 488400,
         "specs": [
             "HDD (NAS용)",
@@ -4492,8 +4492,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 12068615,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721818ALE6L4 (18TB)",
-        "product_id": "12068615",
         "price": 656350,
         "specs": [
             "HDD (NAS용)",
@@ -4522,8 +4522,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 7617112,
         "name": "Western Digital Ultrastar DC HC320 박스 패키지 7200/256M HUS728T8TALE6L4 (8TB)",
-        "product_id": "7617112",
         "price": 327070,
         "specs": [
             "HDD (NAS용)",
@@ -4552,8 +4552,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 7297303,
         "name": "Western Digital Ultrastar DC HC520 7200/256M (HUH721212ALE600, 12TB)",
-        "product_id": "7297303",
         "price": 475980,
         "specs": [
             "HDD (기업용)",
@@ -4582,8 +4582,8 @@
         "registration_date": "등록월 2019.02."
     },
     {
+        "id": 19618481,
         "name": "Western Digital WD RED Plus 5400/256M (WD60EFPX, 6TB)",
-        "product_id": "19618481",
         "price": 267400,
         "specs": [
             "HDD (NAS용)",
@@ -4610,8 +4610,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17253821,
         "name": "도시바 P300 7200/256M (HDWD320, 2TB)",
-        "product_id": "17253821",
         "price": 83000,
         "specs": [
             "HDD (PC용)",
@@ -4637,8 +4637,8 @@
         "registration_date": "등록월 2022.06."
     },
     {
+        "id": 4607468,
         "name": "Seagate BarraCuda 5400/128M/노트북용 (ST2000LM015, 2TB)",
-        "product_id": "4607468",
         "price": 143870,
         "specs": [
             "HDD (노트북용)",
@@ -4664,8 +4664,8 @@
         "registration_date": "등록월 2016.11."
     },
     {
+        "id": 16638500,
         "name": "Western Digital WD Ultrastar DC HC560 박스 패키지 7200/512M WUH722020ALE6L4 (20TB)",
-        "product_id": "16638500",
         "price": 794480,
         "specs": [
             "HDD (기업용)",
@@ -4692,8 +4692,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 9348885,
         "name": "Seagate IronWolf Pro 7200/256M (ST4000NE001, 4TB)",
-        "product_id": "9348885",
         "price": 275000,
         "specs": [
             "HDD (NAS용)",
@@ -4720,8 +4720,8 @@
         "registration_date": "등록월 2019.08."
     },
     {
+        "id": 6443797,
         "name": "Western Digital Ultrastar DC HC310 7200/256M (HUS726T4TALA6L4, 4TB)",
-        "product_id": "6443797",
         "price": 214360,
         "specs": [
             "HDD (기업용)",
@@ -4751,8 +4751,8 @@
         "registration_date": "등록월 2018.09."
     },
     {
+        "id": 7080283,
         "name": "Western Digital Ultrastar DC HC530 7200/512M (WUH721414ALE6L4, 14TB)",
-        "product_id": "7080283",
         "price": 573480,
         "specs": [
             "HDD (기업용)",
@@ -4784,8 +4784,8 @@
         "registration_date": "등록월 2019.01."
     },
     {
+        "id": 7617292,
         "name": "Western Digital Ultrastar DC HC530 박스 패키지 7200/512M WUH721414ALE6L4 (14TB)",
-        "product_id": "7617292",
         "price": 550280,
         "specs": [
             "HDD (NAS용)",
@@ -4817,8 +4817,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 12068573,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4 (16TB)",
-        "product_id": "12068573",
         "price": 613260,
         "specs": [
             "HDD (NAS용)",
@@ -4847,8 +4847,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 16553759,
         "name": "Seagate IronWolf 7200/256M (ST10000VN000, 10TB)",
-        "product_id": "16553759",
         "price": 449000,
         "specs": [
             "HDD (NAS용)",
@@ -4874,8 +4874,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 17726294,
         "name": "Seagate IronWolf Pro 7200/256M (ST2000NE001, 2TB)",
-        "product_id": "17726294",
         "price": 199000,
         "specs": [
             "HDD (NAS용)",
@@ -4902,8 +4902,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 1706996,
         "name": "Western Digital WD Blue 7200/64M (WD10EZEX, 1TB)",
-        "product_id": "1706996",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -4923,8 +4923,8 @@
         "registration_date": "등록월 2012.06"
     },
     {
+        "id": 5173062,
         "name": "Seagate BarraCuda 5400/256M (ST4000DM004, 4TB)",
-        "product_id": "5173062",
         "price": 145000,
         "specs": [
             "HDD (PC용)",
@@ -4944,8 +4944,8 @@
         "registration_date": "등록월 2017.05"
     },
     {
+        "id": 13522751,
         "name": "Western Digital WD Blue 7200/256M (WD20EZBX, 2TB)",
-        "product_id": "13522751",
         "price": 98360,
         "specs": [
             "HDD (PC용)",
@@ -4971,8 +4971,8 @@
         "registration_date": "등록월 2021.03."
     },
     {
+        "id": 6545078,
         "name": "Seagate BarraCuda 7200/256M (ST2000DM008, 2TB)",
-        "product_id": "6545078",
         "price": 102840,
         "specs": [
             "HDD (PC용)",
@@ -4995,8 +4995,8 @@
         "registration_date": "등록월 2018.10."
     },
     {
+        "id": 42286460,
         "name": "Western Digital WD Blue 5640/256M (WD80EAAZ, 8TB)",
-        "product_id": "42286460",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -5021,8 +5021,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 19965044,
         "name": "Western Digital WD Blue 5400/256M (WD40EZAX, 4TB)",
-        "product_id": "19965044",
         "price": 144260,
         "specs": [
             "HDD (PC용)",
@@ -5048,8 +5048,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17645129,
         "name": "Western Digital WD Ultrastar DC HC570 7200/512M (WUH722222ALE6L4, 22TB)",
-        "product_id": "17645129",
         "price": 881770,
         "specs": [
             "HDD (기업용)",
@@ -5075,8 +5075,8 @@
         "registration_date": "등록월 2022.08."
     },
     {
+        "id": 15765761,
         "name": "Western Digital WD Blue 5640/128M (WD80EAZZ, 8TB)",
-        "product_id": "15765761",
         "price": 216390,
         "specs": [
             "HDD (PC용)",
@@ -5101,8 +5101,8 @@
         "registration_date": "등록월 2021.11."
     },
     {
+        "id": 5862779,
         "name": "Western Digital WD MOBILE Blue 5400/128M/노트북용 (WD20SPZX, 2TB)",
-        "product_id": "5862779",
         "price": 138800,
         "specs": [
             "HDD (노트북용)",
@@ -5125,8 +5125,8 @@
         "registration_date": "등록월 2018.02."
     },
     {
+        "id": 5764992,
         "name": "Seagate BarraCuda 5400/256M (ST8000DM004, 8TB)",
-        "product_id": "5764992",
         "price": 215000,
         "specs": [
             "HDD (PC용)",
@@ -5152,8 +5152,8 @@
         "registration_date": "등록월 2017.12."
     },
     {
+        "id": 36645527,
         "name": "Seagate IronWolf Pro 7200/512M (ST24000NT002, 24TB)",
-        "product_id": "36645527",
         "price": 1027620,
         "specs": [
             "HDD (NAS용)",
@@ -5178,8 +5178,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 28400132,
         "name": "Western Digital WD RED Plus 5400/256M (WD40EFPX, 4TB)",
-        "product_id": "28400132",
         "price": 173480,
         "specs": [
             "HDD (NAS용)",
@@ -5204,8 +5204,8 @@
         "registration_date": "등록월 2023.09."
     },
     {
+        "id": 43923137,
         "name": "Western Digital Ultrastar DC HC580 7200/512M (WUH722424ALE6L4, 24TB)",
-        "product_id": "43923137",
         "price": 939230,
         "specs": [
             "HDD (기업용)",
@@ -5229,8 +5229,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 33443276,
         "name": "Seagate BarraCuda 7200/256M (ST1000DM014, 1TB)",
-        "product_id": "33443276",
         "price": 81000,
         "specs": [
             "HDD (PC용)",
@@ -5253,8 +5253,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 12068405,
         "name": "Western Digital WD Ultrastar DC HC550 7200/512M (WUH721818ALE6L4, 18TB)",
-        "product_id": "12068405",
         "price": 687290,
         "specs": [
             "HDD (기업용)",
@@ -5281,8 +5281,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 15016814,
         "name": "Western Digital WD RED Plus 7200/256M (WD120EFBX, 12TB)",
-        "product_id": "15016814",
         "price": 488400,
         "specs": [
             "HDD (NAS용)",
@@ -5309,8 +5309,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 12068615,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721818ALE6L4 (18TB)",
-        "product_id": "12068615",
         "price": 656350,
         "specs": [
             "HDD (NAS용)",
@@ -5339,8 +5339,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 7617112,
         "name": "Western Digital Ultrastar DC HC320 박스 패키지 7200/256M HUS728T8TALE6L4 (8TB)",
-        "product_id": "7617112",
         "price": 327070,
         "specs": [
             "HDD (NAS용)",
@@ -5369,8 +5369,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 7297303,
         "name": "Western Digital Ultrastar DC HC520 7200/256M (HUH721212ALE600, 12TB)",
-        "product_id": "7297303",
         "price": 475980,
         "specs": [
             "HDD (기업용)",
@@ -5399,8 +5399,8 @@
         "registration_date": "등록월 2019.02."
     },
     {
+        "id": 19618481,
         "name": "Western Digital WD RED Plus 5400/256M (WD60EFPX, 6TB)",
-        "product_id": "19618481",
         "price": 267400,
         "specs": [
             "HDD (NAS용)",
@@ -5427,8 +5427,8 @@
         "registration_date": "등록월 2023.04."
     },
     {
+        "id": 17253821,
         "name": "도시바 P300 7200/256M (HDWD320, 2TB)",
-        "product_id": "17253821",
         "price": 83000,
         "specs": [
             "HDD (PC용)",
@@ -5454,8 +5454,8 @@
         "registration_date": "등록월 2022.06."
     },
     {
+        "id": 4607468,
         "name": "Seagate BarraCuda 5400/128M/노트북용 (ST2000LM015, 2TB)",
-        "product_id": "4607468",
         "price": 143870,
         "specs": [
             "HDD (노트북용)",
@@ -5481,8 +5481,8 @@
         "registration_date": "등록월 2016.11."
     },
     {
+        "id": 16638500,
         "name": "Western Digital WD Ultrastar DC HC560 박스 패키지 7200/512M WUH722020ALE6L4 (20TB)",
-        "product_id": "16638500",
         "price": 794480,
         "specs": [
             "HDD (기업용)",
@@ -5509,8 +5509,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 9348885,
         "name": "Seagate IronWolf Pro 7200/256M (ST4000NE001, 4TB)",
-        "product_id": "9348885",
         "price": 275000,
         "specs": [
             "HDD (NAS용)",
@@ -5537,8 +5537,8 @@
         "registration_date": "등록월 2019.08."
     },
     {
+        "id": 6443797,
         "name": "Western Digital Ultrastar DC HC310 7200/256M (HUS726T4TALA6L4, 4TB)",
-        "product_id": "6443797",
         "price": 214360,
         "specs": [
             "HDD (기업용)",
@@ -5568,8 +5568,8 @@
         "registration_date": "등록월 2018.09."
     },
     {
+        "id": 7080283,
         "name": "Western Digital Ultrastar DC HC530 7200/512M (WUH721414ALE6L4, 14TB)",
-        "product_id": "7080283",
         "price": 573480,
         "specs": [
             "HDD (기업용)",
@@ -5601,8 +5601,8 @@
         "registration_date": "등록월 2019.01."
     },
     {
+        "id": 7617292,
         "name": "Western Digital Ultrastar DC HC530 박스 패키지 7200/512M WUH721414ALE6L4 (14TB)",
-        "product_id": "7617292",
         "price": 550280,
         "specs": [
             "HDD (NAS용)",
@@ -5634,8 +5634,8 @@
         "registration_date": "등록월 2019.04."
     },
     {
+        "id": 12068573,
         "name": "Western Digital WD Ultrastar DC HC550 박스 패키지 7200/512M WUH721816ALE6L4 (16TB)",
-        "product_id": "12068573",
         "price": 613260,
         "specs": [
             "HDD (NAS용)",
@@ -5664,8 +5664,8 @@
         "registration_date": "등록월 2020.08."
     },
     {
+        "id": 16553759,
         "name": "Seagate IronWolf 7200/256M (ST10000VN000, 10TB)",
-        "product_id": "16553759",
         "price": 449000,
         "specs": [
             "HDD (NAS용)",
@@ -5691,8 +5691,8 @@
         "registration_date": "등록월 2022.03."
     },
     {
+        "id": 17726294,
         "name": "Seagate IronWolf Pro 7200/256M (ST2000NE001, 2TB)",
-        "product_id": "17726294",
         "price": 199000,
         "specs": [
             "HDD (NAS용)",

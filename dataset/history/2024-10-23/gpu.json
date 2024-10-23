@@ -1,7 +1,7 @@
 [
     {
+        "id": 39340793,
         "name": "ASUS DUAL 지포스 RTX 4060 O8G EVO OC D6 8GB 인텍앤컴퍼니",
-        "product_id": "39340793",
         "price": 453040,
         "specs": [
             "RTX 4060",
@@ -27,8 +27,8 @@
         "registration_date": "등록월 2024.03"
     },
     {
+        "id": 27161939,
         "name": "이엠텍 지포스 RTX 4060 STORM X Dual OC D6 8GB",
-        "product_id": "27161939",
         "price": 428000,
         "specs": [
             "RTX 4060",
@@ -57,8 +57,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 33421631,
         "name": "MSI 지포스 RTX 4070 Ti SUPER 게이밍 X 슬림 D6X 16GB 트라이프로져3",
-        "product_id": "33421631",
         "price": 1320440,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -89,8 +89,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 20274764,
         "name": "이엠텍 지포스 RTX 4060 Ti STORM X Dual OC D6 8GB",
-        "product_id": "20274764",
         "price": 577000,
         "specs": [
             "RTX 4060 Ti",
@@ -121,8 +121,8 @@
         "registration_date": "등록월 2023.05."
     },
     {
+        "id": 20732597,
         "name": "GIGABYTE 지포스 RTX 4060 WINDFORCE OC D6 8GB 피씨디렉트",
-        "product_id": "20732597",
         "price": 425000,
         "specs": [
             "RTX 4060",
@@ -148,8 +148,8 @@
         "registration_date": "등록월 2023.06."
     },
     {
+        "id": 32861312,
         "name": "MSI 지포스 RTX 4070 SUPER 게이밍 X 슬림 D6X 12GB 트라이프로져3",
-        "product_id": "32861312",
         "price": 1000000,
         "specs": [
             "RTX 4070 SUPER",
@@ -180,8 +180,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 33989666,
         "name": "이엠텍 지포스 RTX 4080 SUPER BLACK STORM OC D6X 16GB",
-        "product_id": "33989666",
         "price": 1640000,
         "specs": [
             "RTX 4080 SUPER",
@@ -211,8 +211,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 20740013,
         "name": "MSI 지포스 RTX 4060 벤투스 2X 블랙 OC D6 8GB",
-        "product_id": "20740013",
         "price": 428000,
         "specs": [
             "RTX 4060",
@@ -238,8 +238,8 @@
         "registration_date": "등록월 2023.06."
     },
     {
+        "id": 32494520,
         "name": "GIGABYTE 지포스 RTX 4070 SUPER WINDFORCE OC D6X 12GB 피씨디렉트",
-        "product_id": "32494520",
         "price": 944750,
         "specs": [
             "RTX 4070 SUPER",
@@ -265,8 +265,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 27548141,
         "name": "MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB",
-        "product_id": "27548141",
         "price": 619000,
         "specs": [
             "RTX 4060 Ti",
@@ -293,8 +293,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 17420300,
         "name": "ASRock 라데온 RX 6600 CHALLENGER D D6 8GB 대원씨티에스",
-        "product_id": "17420300",
         "price": 278000,
         "specs": [
             "RX 6600",
@@ -323,8 +323,8 @@
         "registration_date": "등록월 2022.07."
     },
     {
+        "id": 35814959,
         "name": "ASUS DUAL 라데온 RX 7600 O8G V2 OC D6 8GB",
-        "product_id": "35814959",
         "price": 366990,
         "specs": [
             "RX 7600",
@@ -349,8 +349,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 60226334,
         "name": "COLORFUL 지포스 RTX 4060 토마호크 DUO D6 8GB 피씨디렉트",
-        "product_id": "60226334",
         "price": 411050,
         "specs": [
             "RTX 4060",
@@ -379,8 +379,8 @@
         "registration_date": "등록월 2024.07."
     },
     {
+        "id": 39076685,
         "name": "갤럭시 GALAX 지포스 RTX 4070 Ti SUPER EX GAMER WHITE OC D6X 16GB",
-        "product_id": "39076685",
         "price": 1287000,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -412,8 +412,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 33363428,
         "name": "이엠텍 지포스 RTX 4070 Ti SUPER GAMINGPRO D6X 16GB",
-        "product_id": "33363428",
         "price": 1259000,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -445,8 +445,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 20297774,
         "name": "갤럭시 GALAX 지포스 RTX 4060 Ti OC D6 8GB",
-        "product_id": "20297774",
         "price": 568000,
         "specs": [
             "RTX 4060 Ti",
@@ -475,8 +475,8 @@
         "registration_date": "등록월 2023.05."
     },
     {
+        "id": 32865347,
         "name": "이엠텍 지포스 RTX 4070 Ti SUPER BLACK STORM OC D6X 16GB",
-        "product_id": "32865347",
         "price": 1249000,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -506,8 +506,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 15545225,
         "name": "XFX 라데온 RX 6800 SWFT 319 CORE D6 16GB",
-        "product_id": "15545225",
         "price": 539230,
         "specs": [
             "RX 6800",
@@ -535,8 +535,8 @@
         "registration_date": "등록월 2021.10."
     },
     {
+        "id": 27507680,
         "name": "이엠텍 지포스 RTX 4060 MIRACLE WHITE D6 8GB",
-        "product_id": "27507680",
         "price": 450830,
         "specs": [
             "RTX 4060",
@@ -565,8 +565,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 33998042,
         "name": "GIGABYTE 지포스 RTX 4080 SUPER AERO OC D6X 16GB 제이씨현",
-        "product_id": "33998042",
         "price": 1712710,
         "specs": [
             "RTX 4080 SUPER",
@@ -597,8 +597,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 30105218,
         "name": "액슬 라데온 RX 580 2048SP D5 8GB R2 에즈윈",
-        "product_id": "30105218",
         "price": 128000,
         "specs": [
             "RX 580 2048SP",
@@ -623,8 +623,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 49374290,
         "name": "ASUS DUAL 지포스 RTX 4070 O12G EVO OC D6X 12GB 인텍앤컴퍼니",
-        "product_id": "49374290",
         "price": 850830,
         "specs": [
             "RTX 4070",
@@ -648,8 +648,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 32493785,
         "name": "GIGABYTE 지포스 RTX 4070 SUPER GAMING OC D6X 12GB 제이씨현",
-        "product_id": "32493785",
         "price": 1016570,
         "specs": [
             "RTX 4070 SUPER",
@@ -678,8 +678,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 18767216,
         "name": "이엠텍 지포스 GTX 1660 SUPER MIRACLE II D6 6GB",
-        "product_id": "18767216",
         "price": 285000,
         "specs": [
             "GTX 1660 SUPER",
@@ -708,8 +708,8 @@
         "registration_date": "등록월 2023.01."
     },
     {
+        "id": 57449264,
         "name": "갤럭시 GALAX 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57449264",
         "price": 448000,
         "specs": [
             "RTX 4060",
@@ -738,8 +738,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 28057922,
         "name": "SAPPHIRE 라데온 RX 7700 XT PULSE D6 12GB",
-        "product_id": "28057922",
         "price": 596720,
         "specs": [
             "RX 7700 XT",
@@ -765,8 +765,8 @@
         "registration_date": "등록월 2023.09."
     },
     {
+        "id": 13512254,
         "name": "MSI 지포스 RTX 3060 벤투스 2X OC D6 12GB",
-        "product_id": "13512254",
         "price": 399000,
         "specs": [
             "RTX 3060",
@@ -794,8 +794,8 @@
         "registration_date": "등록월 2021.03."
     },
     {
+        "id": 19121474,
         "name": "GIGABYTE 지포스 RTX 4090 AERO OC D6X 24GB 제이씨현",
-        "product_id": "19121474",
         "price": 3414360,
         "specs": [
             "RTX 4090",
@@ -822,8 +822,8 @@
         "registration_date": "등록월 2023.02."
     },
     {
+        "id": 49833482,
         "name": "COLORFUL 지포스 RTX 4070 SUPER 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "49833482",
         "price": 967000,
         "specs": [
             "RTX 4070 SUPER",
@@ -854,8 +854,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 20315144,
         "name": "SAPPHIRE 라데온 RX 7600 PULSE OC D6 8GB",
-        "product_id": "20315144",
         "price": 370030,
         "specs": [
             "RX 7600",
@@ -880,8 +880,8 @@
         "registration_date": "등록월 2023.05."
     },
     {
+        "id": 61418315,
         "name": "PowerColor 라데온 RX 7900 GRE D6 16GB 대원씨티에스",
-        "product_id": "61418315",
         "price": 784000,
         "specs": [
             "RX 7900 GRE",
@@ -906,8 +906,8 @@
         "registration_date": "등록월 2024.07."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -931,8 +931,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -962,8 +962,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -990,8 +990,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -1023,8 +1023,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -1052,8 +1052,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -1082,8 +1082,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -1103,8 +1103,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -1133,8 +1133,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -1153,8 +1153,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -1183,8 +1183,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -1213,8 +1213,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -1243,8 +1243,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -1272,8 +1272,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -1295,8 +1295,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -1322,8 +1322,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -1334,8 +1334,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -1366,8 +1366,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -1396,8 +1396,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -1419,8 +1419,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -1431,8 +1431,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -1460,8 +1460,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -1472,8 +1472,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -1495,8 +1495,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -1526,8 +1526,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -1555,8 +1555,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -1579,8 +1579,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -1603,8 +1603,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -1626,8 +1626,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -1659,8 +1659,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -1690,8 +1690,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -1715,8 +1715,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -1746,8 +1746,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -1774,8 +1774,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -1807,8 +1807,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -1836,8 +1836,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -1866,8 +1866,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -1887,8 +1887,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -1917,8 +1917,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -1937,8 +1937,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -1967,8 +1967,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -1997,8 +1997,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -2027,8 +2027,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -2056,8 +2056,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -2079,8 +2079,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -2106,8 +2106,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -2118,8 +2118,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -2150,8 +2150,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -2180,8 +2180,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -2203,8 +2203,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -2215,8 +2215,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -2244,8 +2244,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -2256,8 +2256,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -2279,8 +2279,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -2310,8 +2310,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -2339,8 +2339,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -2363,8 +2363,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -2387,8 +2387,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -2410,8 +2410,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -2443,8 +2443,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -2474,8 +2474,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -2499,8 +2499,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -2530,8 +2530,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -2558,8 +2558,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -2591,8 +2591,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -2620,8 +2620,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -2650,8 +2650,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -2671,8 +2671,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -2701,8 +2701,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -2721,8 +2721,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -2751,8 +2751,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -2781,8 +2781,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -2811,8 +2811,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -2840,8 +2840,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -2863,8 +2863,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -2890,8 +2890,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -2902,8 +2902,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -2934,8 +2934,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -2964,8 +2964,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -2987,8 +2987,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -2999,8 +2999,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -3028,8 +3028,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -3040,8 +3040,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -3063,8 +3063,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -3094,8 +3094,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -3123,8 +3123,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -3147,8 +3147,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -3171,8 +3171,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -3194,8 +3194,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -3227,8 +3227,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -3258,8 +3258,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -3283,8 +3283,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -3314,8 +3314,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -3342,8 +3342,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -3375,8 +3375,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -3404,8 +3404,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -3434,8 +3434,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -3455,8 +3455,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -3485,8 +3485,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -3505,8 +3505,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -3535,8 +3535,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -3565,8 +3565,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -3595,8 +3595,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -3624,8 +3624,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -3647,8 +3647,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -3674,8 +3674,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -3686,8 +3686,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -3718,8 +3718,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -3748,8 +3748,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -3771,8 +3771,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -3783,8 +3783,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -3812,8 +3812,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -3824,8 +3824,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -3847,8 +3847,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -3878,8 +3878,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -3907,8 +3907,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -3931,8 +3931,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -3955,8 +3955,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -3978,8 +3978,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -4011,8 +4011,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -4042,8 +4042,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -4067,8 +4067,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -4098,8 +4098,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -4126,8 +4126,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -4159,8 +4159,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -4188,8 +4188,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -4218,8 +4218,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -4239,8 +4239,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -4269,8 +4269,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -4289,8 +4289,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -4319,8 +4319,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -4349,8 +4349,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -4379,8 +4379,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -4408,8 +4408,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -4431,8 +4431,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -4458,8 +4458,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -4470,8 +4470,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -4502,8 +4502,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -4532,8 +4532,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -4555,8 +4555,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -4567,8 +4567,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -4596,8 +4596,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -4608,8 +4608,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -4631,8 +4631,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -4662,8 +4662,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -4691,8 +4691,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -4715,8 +4715,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -4739,8 +4739,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -4762,8 +4762,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -4795,8 +4795,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -4826,8 +4826,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -4851,8 +4851,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -4882,8 +4882,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -4910,8 +4910,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -4943,8 +4943,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -4972,8 +4972,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -5002,8 +5002,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -5023,8 +5023,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -5053,8 +5053,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -5073,8 +5073,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -5103,8 +5103,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -5133,8 +5133,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -5163,8 +5163,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -5192,8 +5192,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -5215,8 +5215,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -5242,8 +5242,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -5254,8 +5254,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -5286,8 +5286,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -5316,8 +5316,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -5339,8 +5339,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -5351,8 +5351,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -5380,8 +5380,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -5392,8 +5392,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -5415,8 +5415,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -5446,8 +5446,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -5475,8 +5475,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -5499,8 +5499,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -5523,8 +5523,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -5546,8 +5546,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -5579,8 +5579,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -5610,8 +5610,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -5635,8 +5635,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -5666,8 +5666,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -5694,8 +5694,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -5727,8 +5727,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -5756,8 +5756,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -5786,8 +5786,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -5807,8 +5807,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -5837,8 +5837,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -5857,8 +5857,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -5887,8 +5887,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -5917,8 +5917,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -5947,8 +5947,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -5976,8 +5976,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -5999,8 +5999,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -6026,8 +6026,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -6038,8 +6038,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -6070,8 +6070,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -6100,8 +6100,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -6123,8 +6123,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -6135,8 +6135,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -6164,8 +6164,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -6176,8 +6176,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -6199,8 +6199,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -6230,8 +6230,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -6259,8 +6259,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -6283,8 +6283,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -6307,8 +6307,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -6330,8 +6330,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -6363,8 +6363,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -6394,8 +6394,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -6419,8 +6419,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -6450,8 +6450,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -6478,8 +6478,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -6511,8 +6511,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -6540,8 +6540,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -6570,8 +6570,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -6591,8 +6591,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -6621,8 +6621,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -6641,8 +6641,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -6671,8 +6671,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -6701,8 +6701,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -6731,8 +6731,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -6760,8 +6760,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -6783,8 +6783,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -6810,8 +6810,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -6822,8 +6822,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -6854,8 +6854,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -6884,8 +6884,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -6907,8 +6907,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -6919,8 +6919,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -6948,8 +6948,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -6960,8 +6960,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -6983,8 +6983,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -7014,8 +7014,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -7043,8 +7043,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -7067,8 +7067,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -7091,8 +7091,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -7114,8 +7114,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -7147,8 +7147,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -7178,8 +7178,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -7203,8 +7203,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -7234,8 +7234,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -7262,8 +7262,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -7295,8 +7295,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -7324,8 +7324,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -7354,8 +7354,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -7375,8 +7375,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -7405,8 +7405,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -7425,8 +7425,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -7455,8 +7455,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -7485,8 +7485,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -7515,8 +7515,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -7544,8 +7544,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -7567,8 +7567,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -7594,8 +7594,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -7606,8 +7606,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -7638,8 +7638,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -7668,8 +7668,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -7691,8 +7691,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -7703,8 +7703,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -7732,8 +7732,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -7744,8 +7744,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -7767,8 +7767,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -7798,8 +7798,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -7827,8 +7827,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -7851,8 +7851,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -7875,8 +7875,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -7898,8 +7898,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -7931,8 +7931,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -7962,8 +7962,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -7987,8 +7987,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -8018,8 +8018,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -8046,8 +8046,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -8079,8 +8079,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -8108,8 +8108,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -8138,8 +8138,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -8159,8 +8159,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -8189,8 +8189,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -8209,8 +8209,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -8239,8 +8239,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -8269,8 +8269,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -8299,8 +8299,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -8328,8 +8328,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -8351,8 +8351,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -8378,8 +8378,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -8390,8 +8390,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -8422,8 +8422,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -8452,8 +8452,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -8475,8 +8475,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -8487,8 +8487,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -8516,8 +8516,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -8528,8 +8528,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -8551,8 +8551,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -8582,8 +8582,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -8611,8 +8611,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -8635,8 +8635,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -8659,8 +8659,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -8682,8 +8682,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -8715,8 +8715,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -8746,8 +8746,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -8771,8 +8771,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -8802,8 +8802,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -8830,8 +8830,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -8863,8 +8863,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -8892,8 +8892,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -8922,8 +8922,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -8943,8 +8943,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -8973,8 +8973,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -8993,8 +8993,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -9023,8 +9023,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -9053,8 +9053,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -9083,8 +9083,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -9112,8 +9112,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -9135,8 +9135,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -9162,8 +9162,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -9174,8 +9174,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -9206,8 +9206,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -9236,8 +9236,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -9259,8 +9259,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -9271,8 +9271,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -9300,8 +9300,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -9312,8 +9312,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -9335,8 +9335,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -9366,8 +9366,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -9395,8 +9395,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -9419,8 +9419,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -9443,8 +9443,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -9466,8 +9466,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -9499,8 +9499,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -9530,8 +9530,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -9555,8 +9555,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -9586,8 +9586,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -9614,8 +9614,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -9647,8 +9647,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -9676,8 +9676,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -9706,8 +9706,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -9727,8 +9727,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -9757,8 +9757,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -9777,8 +9777,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -9807,8 +9807,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -9837,8 +9837,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -9867,8 +9867,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -9896,8 +9896,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -9919,8 +9919,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -9946,8 +9946,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -9958,8 +9958,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -9990,8 +9990,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -10020,8 +10020,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -10043,8 +10043,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -10055,8 +10055,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -10084,8 +10084,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -10096,8 +10096,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -10119,8 +10119,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -10150,8 +10150,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -10179,8 +10179,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -10203,8 +10203,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -10227,8 +10227,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -10250,8 +10250,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -10283,8 +10283,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -10314,8 +10314,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -10339,8 +10339,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -10370,8 +10370,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -10398,8 +10398,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -10431,8 +10431,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -10460,8 +10460,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -10490,8 +10490,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -10511,8 +10511,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -10541,8 +10541,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -10561,8 +10561,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -10591,8 +10591,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -10621,8 +10621,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -10651,8 +10651,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -10680,8 +10680,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -10703,8 +10703,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -10730,8 +10730,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -10742,8 +10742,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -10774,8 +10774,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -10804,8 +10804,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -10827,8 +10827,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -10839,8 +10839,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -10868,8 +10868,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -10880,8 +10880,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -10903,8 +10903,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -10934,8 +10934,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -10963,8 +10963,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -10987,8 +10987,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -11011,8 +11011,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -11034,8 +11034,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -11067,8 +11067,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
         "price": 823200,
         "specs": [
             "RTX 4070",
@@ -11098,8 +11098,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 63086363,
         "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
-        "product_id": "63086363",
         "price": 599000,
         "specs": [
             "RTX 4060 Ti",
@@ -11123,8 +11123,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 27549911,
         "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
-        "product_id": "27549911",
         "price": 510500,
         "specs": [
             "RTX 4060",
@@ -11154,8 +11154,8 @@
         "registration_date": "등록월 2023.08."
     },
     {
+        "id": 63086267,
         "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
-        "product_id": "63086267",
         "price": 950000,
         "specs": [
             "RTX 4070 SUPER",
@@ -11182,8 +11182,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 66137228,
         "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
-        "product_id": "66137228",
         "price": 1298340,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -11215,8 +11215,8 @@
         "registration_date": "등록월 2024.09."
     },
     {
+        "id": 57443834,
         "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
-        "product_id": "57443834",
         "price": 492820,
         "specs": [
             "A770",
@@ -11244,8 +11244,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 36708794,
         "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
-        "product_id": "36708794",
         "price": 1040000,
         "specs": [
             "RTX 4070 SUPER",
@@ -11274,8 +11274,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 14077739,
         "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
-        "product_id": "14077739",
         "price": 22650,
         "specs": [
             "G210",
@@ -11295,8 +11295,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 14979494,
         "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
-        "product_id": "14979494",
         "price": 436680,
         "specs": [
             "RX 6600 XT",
@@ -11325,8 +11325,8 @@
         "registration_date": "등록월 2021.08."
     },
     {
+        "id": 14077574,
         "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
-        "product_id": "14077574",
         "price": 56350,
         "specs": [
             "GT730",
@@ -11345,8 +11345,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57499502,
         "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
-        "product_id": "57499502",
         "price": 454140,
         "specs": [
             "RTX 4060",
@@ -11375,8 +11375,8 @@
         "registration_date": "등록월 2024.06."
     },
     {
+        "id": 33386423,
         "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
-        "product_id": "33386423",
         "price": 1559120,
         "specs": [
             "RTX 4070 Ti SUPER",
@@ -11405,8 +11405,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 68438642,
         "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
-        "product_id": "68438642",
         "price": 808000,
         "specs": [
             "RTX 4070",
@@ -11435,8 +11435,8 @@
         "registration_date": "등록월 2024.10."
     },
     {
+        "id": 33384821,
         "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
-        "product_id": "33384821",
         "price": 443090,
         "specs": [
             "RTX 4060",
@@ -11464,8 +11464,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 14092100,
         "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
-        "product_id": "14092100",
         "price": 109390,
         "specs": [
             "GT1030",
@@ -11487,8 +11487,8 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 7479994,
         "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
-        "product_id": "7479994",
         "price": 107000,
         "specs": [
             "GT1030",
@@ -11514,8 +11514,8 @@
         "registration_date": "등록월 2019.03."
     },
     {
+        "id": 62640587,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
-        "product_id": "62640587",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -11526,8 +11526,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 43532546,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
-        "product_id": "43532546",
         "price": 1819890,
         "specs": [
             "RTX 4080 SUPER",
@@ -11558,8 +11558,8 @@
         "registration_date": "등록월 2024.03."
     },
     {
+        "id": 32492576,
         "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
-        "product_id": "32492576",
         "price": 935000,
         "specs": [
             "RTX 4070 SUPER",
@@ -11588,8 +11588,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 29937548,
         "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
-        "product_id": "29937548",
         "price": 58410,
         "specs": [
             "GT730",
@@ -11611,8 +11611,8 @@
         "registration_date": "등록월 2023.11."
     },
     {
+        "id": 62640563,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
-        "product_id": "62640563",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -11623,8 +11623,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 36157499,
         "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
-        "product_id": "36157499",
         "price": 275000,
         "specs": [
             "RTX 3050",
@@ -11652,8 +11652,8 @@
         "registration_date": "등록월 2024.02."
     },
     {
+        "id": 62640164,
         "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
-        "product_id": "62640164",
         "price": 40880,
         "specs": [
             "교체용 팬",
@@ -11664,8 +11664,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 63086747,
         "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
-        "product_id": "63086747",
         "price": 114000,
         "specs": [
             "GT1030",
@@ -11687,8 +11687,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 34335599,
         "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
-        "product_id": "34335599",
         "price": 1700550,
         "specs": [
             "RTX 4080 SUPER",
@@ -11718,8 +11718,8 @@
         "registration_date": "등록월 2024.01."
     },
     {
+        "id": 46744751,
         "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
-        "product_id": "46744751",
         "price": 994480,
         "specs": [
             "RTX 4070 SUPER",
@@ -11747,8 +11747,8 @@
         "registration_date": "등록월 2024.04."
     },
     {
+        "id": 11914264,
         "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
-        "product_id": "11914264",
         "price": 102000,
         "specs": [
             "GT1030",
@@ -11771,8 +11771,8 @@
         "registration_date": "등록월 2020.07."
     },
     {
+        "id": 6288917,
         "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
-        "product_id": "6288917",
         "price": 45000,
         "specs": [
             "GT710",
@@ -11795,8 +11795,8 @@
         "registration_date": "등록월 2018.07."
     },
     {
+        "id": 63086675,
         "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
-        "product_id": "63086675",
         "price": 283000,
         "specs": [
             "RTX 3050",
@@ -11818,8 +11818,8 @@
         "registration_date": "등록월 2024.08."
     },
     {
+        "id": 14158409,
         "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
-        "product_id": "14158409",
         "price": 1092900,
         "specs": [
             "RX 6900 XT",
@@ -11851,8 +11851,792 @@
         "registration_date": "등록월 2021.05."
     },
     {
+        "id": 57483869,
         "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
-        "product_id": "57483869",
+        "price": 823200,
+        "specs": [
+            "RTX 4070",
+            "4nm",
+            "베이스클럭:1920MHz",
+            "부스트클럭:2475MHz",
+            "스트림 프로세서:5888개",
+            "PCIe4.0x16",
+            "GDDR6X(DDR6X)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "사용전력:최대 200W",
+            "정격파워 650W 이상",
+            "전원 포트:8핀 x1",
+            "전원부:8+2페이즈",
+            "3팬",
+            "가로(길이):325mm",
+            "두께:53.8mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "LED 라이트",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=57483869&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/869/483/img/57483869_1.jpg",
+        "registration_date": "등록월 2024.06."
+    },
+    {
+        "id": 63086363,
+        "name": "ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 대원씨티에스",
+        "price": 599000,
+        "specs": [
+            "RTX 4060 Ti",
+            "4nm",
+            "부스트클럭:2565MHz",
+            "OC클럭:2595MHz",
+            "스트림 프로세서:4352개",
+            "PCIe4.0",
+            "GDDR6(DDR6)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원",
+            "정격파워 650W 이상",
+            "전원 포트:8핀 x1",
+            "2팬",
+            "가로(길이):227.2mm",
+            "두께:49.6mm",
+            "백플레이트"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=63086363&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/363/086/img/63086363_1.jpg",
+        "registration_date": "등록월 2024.08."
+    },
+    {
+        "id": 27549911,
+        "name": "갤럭시 BOY 지포스 RTX 4060 EX OC D6 8GB",
+        "price": 510500,
+        "specs": [
+            "RTX 4060",
+            "4nm",
+            "베이스클럭:1830MHz",
+            "부스트클럭:2565MHz",
+            "스트림 프로세서:3072개",
+            "PCIe4.0x16(at x8)",
+            "GDDR6(DDR6)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "사용전력:115W",
+            "정격파워 550W 이상",
+            "전원 포트:8핀 x1",
+            "2팬",
+            "가로(길이):251mm",
+            "두께:40mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "LED 라이트",
+            "XTREME TUNER",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=27549911&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/911/549/img/27549911_1.jpg",
+        "registration_date": "등록월 2023.08."
+    },
+    {
+        "id": 63086267,
+        "name": "ASUS DUAL 지포스 RTX 4070 SUPER O12G EVO OC D6X 12GB 대원씨티에스",
+        "price": 950000,
+        "specs": [
+            "RTX 4070 SUPER",
+            "4nm",
+            "베이스클럭:1980MHz",
+            "부스트클럭:2520MHz",
+            "OC클럭:2550MHz",
+            "스트림 프로세서:7168개",
+            "PCIe4.0x16",
+            "GDDR6X(DDR6X)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "정격파워 750W 이상",
+            "전원 포트:16핀(12VHPWR) x1",
+            "2팬",
+            "가로(길이):227.2mm",
+            "두께:49.6mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "구성품:2x8핀 to 16핀 커넥터"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=63086267&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/267/086/img/63086267_1.jpg",
+        "registration_date": "등록월 2024.08."
+    },
+    {
+        "id": 66137228,
+        "name": "COLORFUL iGame 지포스 RTX 4070 Ti SUPER ULTRA OC D6X 16GB White 피씨디렉트",
+        "price": 1298340,
+        "specs": [
+            "RTX 4070 Ti SUPER",
+            "4nm",
+            "베이스클럭:2340MHz",
+            "부스트클럭:2610MHz",
+            "OC클럭:2655MHz",
+            "스트림 프로세서:8448개",
+            "PCIe4.0x16",
+            "GDDR6X(DDR6X)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "사용전력:285W",
+            "정격파워 750W 이상",
+            "전원 포트:16핀(12VHPWR) x1",
+            "전원부:12+3페이즈",
+            "3팬",
+            "가로(길이):337mm",
+            "두께:60mm",
+            "백플레이트",
+            "LED 라이트",
+            "오버클럭 물리키",
+            "구성품:2x8핀 to 16핀 커넥터",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=66137228&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/228/137/img/66137228_1.jpg",
+        "registration_date": "등록월 2024.09."
+    },
+    {
+        "id": 57443834,
+        "name": "SPARKLE Arc A770 ROC LUNA OC D6 16GB",
+        "price": 492820,
+        "specs": [
+            "A770",
+            "6nm",
+            "부스트클럭:2300MHz",
+            "PCIe4.0x16",
+            "GDDR6(DDR6)",
+            "출력단자:HDMI2.0,DP2.0",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 지원",
+            "정격파워 650W 이상",
+            "전원 포트:8핀 x2",
+            "2팬",
+            "가로(길이):261mm",
+            "두께:48.4mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "LED 라이트",
+            "구성품:VGA지지대",
+            "A",
+            "S 2년",
+            "Xe코어: 32개, XMX엔진 512개"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=57443834&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/834/443/img/57443834_1.jpg",
+        "registration_date": "등록월 2024.06."
+    },
+    {
+        "id": 36708794,
+        "name": "ASUS TUF Gaming 지포스 RTX 4070 SUPER D6X 12GB",
+        "price": 1040000,
+        "specs": [
+            "RTX 4070 SUPER",
+            "4nm",
+            "베이스클럭:1980MHz",
+            "부스트클럭:2475MHz",
+            "OC클럭:2505MHz",
+            "스트림 프로세서:7168개",
+            "PCIe4.0x16",
+            "GDDR6X(DDR6X)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "정격파워 750W 이상",
+            "전원 포트:16핀(12VHPWR) x1",
+            "3팬",
+            "가로(길이):301mm",
+            "두께:63mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "LED 라이트",
+            "AURA SYNC",
+            "구성품:VGA지지대,2x8핀 to 16핀 커넥터"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=36708794&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/794/708/img/36708794_1.jpg",
+        "registration_date": "등록월 2024.02."
+    },
+    {
+        "id": 14077739,
+        "name": "AFOX 지포스 G210 D3 512MB LP 디앤디컴",
+        "price": 22650,
+        "specs": [
+            "G210",
+            "베이스클럭:589MHz",
+            "스트림 프로세서:16개",
+            "PCIe2.0x16",
+            "DDR3(DDR3)",
+            "출력단자:HDMI,DVI(듀얼링크),D-SUB",
+            "사용전력:최대 30.5W",
+            "정격파워 300W 이상",
+            "1팬",
+            "가로(길이):150mm",
+            "두께:30mm"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=14077739&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/739/077/img/14077739_1.jpg",
+        "registration_date": "등록월 2021.05."
+    },
+    {
+        "id": 14979494,
+        "name": "XFX 라데온 RX 6600 XT QICK 308 BLACK D6 8GB",
+        "price": 436680,
+        "specs": [
+            "RX 6600 XT",
+            "7nm",
+            "베이스클럭:2188MHz",
+            "부스트클럭:2607MHz",
+            "스트림 프로세서:2048개",
+            "PCIe4.0x16(at x8)",
+            "GDDR6(DDR6)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원",
+            "정격파워 650W 이상",
+            "전원 포트:8핀 x1",
+            "3팬",
+            "가로(길이):270mm",
+            "두께:50mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "Dual BIOS",
+            "A",
+            "S 3년",
+            "인피니티 캐시: 32MB / RDNA2"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=14979494&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/494/979/img/14979494_1.jpg",
+        "registration_date": "등록월 2021.08."
+    },
+    {
+        "id": 14077574,
+        "name": "AFOX 지포스 GT730 D3 2GB LP 무소음 디앤디컴",
+        "price": 56350,
+        "specs": [
+            "GT730",
+            "28nm",
+            "부스트클럭:902MHz",
+            "스트림 프로세서:384개",
+            "PCIe2.0x16",
+            "GDDR3(DDR3)",
+            "출력단자:HDMI,DVI(듀얼링크),D-SUB",
+            "지원정보:4K 지원",
+            "가로(길이):145mm",
+            "두께:35mm"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=14077574&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/574/077/img/14077574_1.jpg",
+        "registration_date": "등록월 2021.05."
+    },
+    {
+        "id": 57499502,
+        "name": "갤럭시 BOY 지포스 RTX 4060 WHITE OC D6 8GB",
+        "price": 454140,
+        "specs": [
+            "RTX 4060",
+            "4nm",
+            "베이스클럭:1830MHz",
+            "부스트클럭:2475MHz",
+            "스트림 프로세서:3072개",
+            "PCIe4.0x16(at x8)",
+            "GDDR6(DDR6)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "사용전력:115W",
+            "정격파워 550W 이상",
+            "전원 포트:8핀 x1",
+            "2팬",
+            "가로(길이):237mm",
+            "두께:41mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "XTREME TUNER",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=57499502&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/502/499/img/57499502_1.jpg",
+        "registration_date": "등록월 2024.06."
+    },
+    {
+        "id": 33386423,
+        "name": "ASUS ROG STRIX 지포스 RTX 4070 Ti SUPER GAMING D6X 16GB",
+        "price": 1559120,
+        "specs": [
+            "RTX 4070 Ti SUPER",
+            "4nm",
+            "베이스클럭:2340MHz",
+            "부스트클럭:2610MHz",
+            "OC클럭:2640MHz",
+            "스트림 프로세서:8448개",
+            "PCIe4.0x16",
+            "GDDR6X(DDR6X)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "정격파워 750W 이상",
+            "전원 포트:16핀(12VHPWR) x1",
+            "3팬",
+            "가로(길이):336mm",
+            "두께:63mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "LED 라이트",
+            "AURA SYNC",
+            "구성품:VGA지지대,3x8핀 to 16핀 커넥터"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=33386423&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/423/386/img/33386423_1.jpg",
+        "registration_date": "등록월 2024.01."
+    },
+    {
+        "id": 68438642,
+        "name": "ZOTAC GAMING 지포스 RTX 4070 TWIN Edge OC D6 12GB",
+        "price": 808000,
+        "specs": [
+            "RTX 4070",
+            "부스트클럭:2490MHz",
+            "스트림 프로세서:5888개",
+            "PCIe4.0x16",
+            "GDDR6(DDR6)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "사용전력:200W",
+            "정격파워 600W 이상",
+            "전원 포트:8핀 x1",
+            "전원부:8+2페이즈",
+            "2팬",
+            "가로(길이):236.7mm",
+            "두께:44.9mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "LED 라이트",
+            "SPECTRA",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=68438642&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/642/438/img/68438642_1.jpg",
+        "registration_date": "등록월 2024.10."
+    },
+    {
+        "id": 33384821,
+        "name": "갤럭시 BOY 지포스 RTX 4060 2X OC V2 D6 8GB",
+        "price": 443090,
+        "specs": [
+            "RTX 4060",
+            "4nm",
+            "베이스클럭:1830MHz",
+            "부스트클럭:2475MHz",
+            "스트림 프로세서:3072개",
+            "PCIe4.0x16(at x8)",
+            "GDDR6(DDR6)",
+            "출력단자:HDMI,DP",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "사용전력:115W",
+            "정격파워 550W 이상",
+            "전원 포트:8핀 x1",
+            "2팬",
+            "가로(길이):237mm",
+            "두께:41mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=33384821&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/821/384/img/33384821_1.jpg",
+        "registration_date": "등록월 2024.01."
+    },
+    {
+        "id": 14092100,
+        "name": "GIGABYTE 지포스 GT1030 UD2 D4 2GB 미니미 피씨디렉트",
+        "price": 109390,
+        "specs": [
+            "GT1030",
+            "14nm",
+            "베이스클럭:1177MHz",
+            "부스트클럭:1417MHz",
+            "스트림 프로세서:384개",
+            "PCIe3.0x16(at x4)",
+            "DDR4",
+            "출력단자:HDMI2.0,DVI",
+            "지원정보:4K 지원",
+            "정격파워 300W 이상",
+            "1팬",
+            "가로(길이):150mm",
+            "두께:15mm"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=14092100&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/100/092/img/14092100_1.jpg",
+        "registration_date": "등록월 2021.05."
+    },
+    {
+        "id": 7479994,
+        "name": "갤럭시 BOY 지포스 GT1030 D5 2GB",
+        "price": 107000,
+        "specs": [
+            "GT1030",
+            "14nm",
+            "베이스클럭:1227MHz",
+            "부스트클럭:1468MHz",
+            "스트림 프로세서:384개",
+            "PCIe3.0x16(at x4)",
+            "GDDR5(DDR5)",
+            "출력단자:HDMI2.0,DVI",
+            "지원정보:4K 지원",
+            "사용전력:최대 30W",
+            "정격파워 300W 이상",
+            "전원부:2페이즈",
+            "1팬",
+            "가로(길이):166mm",
+            "두께:38mm",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=7479994&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/994/479/img/7479994_1.jpg",
+        "registration_date": "등록월 2019.03."
+    },
+    {
+        "id": 62640587,
+        "name": "XFX Magnetic Air 시리즈 커스텀 팬 오렌지",
+        "price": 40880,
+        "specs": [
+            "교체용 팬",
+            "3팬"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=62640587&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/587/640/img/62640587_1.jpg",
+        "registration_date": "등록월 2024.08."
+    },
+    {
+        "id": 43532546,
+        "name": "갤럭시 BOY 지포스 RTX 4080 SUPER SG OC D6X 16GB",
+        "price": 1819890,
+        "specs": [
+            "RTX 4080 SUPER",
+            "4nm",
+            "베이스클럭:2295MHz",
+            "부스트클럭:2610MHz",
+            "OC클럭:2625MHz",
+            "스트림 프로세서:10240개",
+            "PCIe4.0x16",
+            "GDDR6X(DDR6X)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "사용전력:320W",
+            "정격파워 850W 이상",
+            "전원 포트:16핀(12VHPWR) x1",
+            "3팬",
+            "가로(길이):336mm",
+            "두께:66mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "LED 라이트",
+            "구성품:VGA지지대,3x8핀 to 16핀 커넥터,클립 온 팬",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=43532546&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/546/532/img/43532546_1.jpg",
+        "registration_date": "등록월 2024.03."
+    },
+    {
+        "id": 32492576,
+        "name": "PNY 지포스 RTX 4070 SUPER VERTO OC D6X 12GB DF 제이씨현",
+        "price": 935000,
+        "specs": [
+            "RTX 4070 SUPER",
+            "4nm",
+            "베이스클럭:1980MHz",
+            "부스트클럭:2490MHz",
+            "스트림 프로세서:7168개",
+            "PCIe4.0x16",
+            "GDDR6X(DDR6X)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "사용전력:220W",
+            "정격파워 700W 이상",
+            "전원 포트:16핀(12VHPWR) x1",
+            "2팬",
+            "가로(길이):247.4mm",
+            "두께:40.8mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "구성품:2x8핀 to 16핀 커넥터",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=32492576&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/576/492/img/32492576_1.jpg",
+        "registration_date": "등록월 2024.01."
+    },
+    {
+        "id": 29937548,
+        "name": "MAXSUN 지포스 GT730 파워해머 SI D3 2GB LP",
+        "price": 58410,
+        "specs": [
+            "GT730",
+            "28nm",
+            "부스트클럭:902MHz",
+            "PCIe3.0x16",
+            "GDDR3(DDR3)",
+            "출력단자:HDMI,DVI,D-SUB",
+            "정격파워 300W 이상",
+            "무팬",
+            "가로(길이):145mm",
+            "두께:23mm",
+            "구성품:일반브라켓,LP브라켓",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=29937548&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/548/937/img/29937548_1.jpg",
+        "registration_date": "등록월 2023.11."
+    },
+    {
+        "id": 62640563,
+        "name": "XFX Magnetic Air 시리즈 커스텀 팬 그린",
+        "price": 40880,
+        "specs": [
+            "교체용 팬",
+            "3팬"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=62640563&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/563/640/img/62640563_1.jpg",
+        "registration_date": "등록월 2024.08."
+    },
+    {
+        "id": 36157499,
+        "name": "갤럭시 BOY 지포스 RTX 3050 WHITE D6 6GB LP",
+        "price": 275000,
+        "specs": [
+            "RTX 3050",
+            "8nm",
+            "베이스클럭:1042MHz",
+            "부스트클럭:1470MHz",
+            "OC클럭:1485MHz",
+            "스트림 프로세서:2304개",
+            "PCIe4.0x16(at x8)",
+            "GDDR6(DDR6)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDCP 지원",
+            "사용전력:70W",
+            "정격파워 300W 이상",
+            "전원 포트:없음",
+            "2팬",
+            "가로(길이):169mm",
+            "두께:34mm",
+            "구성품:일반브라켓,LP브라켓",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=36157499&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/499/157/img/36157499_1.jpg",
+        "registration_date": "등록월 2024.02."
+    },
+    {
+        "id": 62640164,
+        "name": "XFX Magnetic Air 시리즈 커스텀 팬 블루",
+        "price": 40880,
+        "specs": [
+            "교체용 팬",
+            "3팬"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=62640164&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/164/640/img/62640164_1.jpg",
+        "registration_date": "등록월 2024.08."
+    },
+    {
+        "id": 63086747,
+        "name": "ASUS PH 지포스 GT1030 O2G D5 2GB 대원씨티에스",
+        "price": 114000,
+        "specs": [
+            "GT1030",
+            "14nm",
+            "베이스클럭:1252MHz",
+            "부스트클럭:1506MHz",
+            "OC클럭:1531MHz",
+            "스트림 프로세서:384개",
+            "PCIe3.0x16(at x4)",
+            "GDDR5(DDR5)",
+            "출력단자:HDMI2.0,DVI",
+            "지원정보:4K 지원,HDCP 지원",
+            "1팬",
+            "가로(길이):184mm",
+            "두께:36mm"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=63086747&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/747/086/img/63086747_1.jpg",
+        "registration_date": "등록월 2024.08."
+    },
+    {
+        "id": 34335599,
+        "name": "갤럭시 BOY 지포스 RTX 4080 SUPER ST D6X 16GB",
+        "price": 1700550,
+        "specs": [
+            "RTX 4080 SUPER",
+            "4nm",
+            "베이스클럭:2295MHz",
+            "부스트클럭:2550MHz",
+            "OC클럭:2565MHz",
+            "스트림 프로세서:10240개",
+            "PCIe4.0x16",
+            "GDDR6X(DDR6X)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "사용전력:320W",
+            "정격파워 850W 이상",
+            "전원 포트:16핀(12VHPWR) x1",
+            "3팬",
+            "가로(길이):336mm",
+            "두께:66mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "구성품:VGA지지대,3x8핀 to 16핀 커넥터,클립 온 팬",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=34335599&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/599/335/img/34335599_1.jpg",
+        "registration_date": "등록월 2024.01."
+    },
+    {
+        "id": 46744751,
+        "name": "MANLI 지포스 RTX 4070 SUPER Polar Fox D6X 12GB White",
+        "price": 994480,
+        "specs": [
+            "RTX 4070 SUPER",
+            "4nm",
+            "베이스클럭:1980MHz",
+            "부스트클럭:2475MHz",
+            "스트림 프로세서:7168개",
+            "PCIe4.0x16",
+            "GDDR6X(DDR6X)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원,HDR 지원,HDCP 2.3",
+            "사용전력:220W",
+            "정격파워 650W 이상",
+            "전원 포트:16핀(12VHPWR) x1",
+            "전원부:8+2페이즈",
+            "3팬",
+            "가로(길이):315mm",
+            "두께:42mm",
+            "백플레이트",
+            "A",
+            "S 3년"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=46744751&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/751/744/img/46744751_1.jpg",
+        "registration_date": "등록월 2024.04."
+    },
+    {
+        "id": 11914264,
+        "name": "갤럭시 BOY 지포스 GT1030 EXOC WHITE D5 2GB LP",
+        "price": 102000,
+        "specs": [
+            "GT1030",
+            "베이스클럭:1252MHz",
+            "부스트클럭:1506MHz",
+            "스트림 프로세서:384개",
+            "PCIe3.0x16(at x4)",
+            "GDDR5(DDR5)",
+            "출력단자:HDMI,DVI",
+            "지원정보:4K 지원",
+            "사용전력:최대 30W",
+            "정격파워 300W 이상",
+            "1팬",
+            "가로(길이):162mm",
+            "두께:22mm",
+            "23년 11월부로 제품 박스 디자인 변경"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=11914264&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/264/914/img/11914264_1.jpg",
+        "registration_date": "등록월 2020.07."
+    },
+    {
+        "id": 6288917,
+        "name": "AFOX 지포스 GT710 L5 D3 1GB LP 디앤디컴",
+        "price": 45000,
+        "specs": [
+            "GT710",
+            "28nm",
+            "베이스클럭:954MHz",
+            "스트림 프로세서:192개",
+            "PCIe2.0x16",
+            "GDDR3(DDR3)",
+            "출력단자:HDMI,DVI(듀얼링크),D-SUB",
+            "사용전력:최대 19W",
+            "정격파워 300W 이상",
+            "가로(길이):145mm",
+            "두께:35mm",
+            "A",
+            "S 3년",
+            "LP브라켓 제공"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=6288917&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/917/288/img/6288917_1.jpg",
+        "registration_date": "등록월 2018.07."
+    },
+    {
+        "id": 63086675,
+        "name": "ASUS DUAL 지포스 RTX 3050 O6G OC D6 6GB 대원씨티에스",
+        "price": 283000,
+        "specs": [
+            "RTX 3050",
+            "8nm",
+            "부스트클럭:1507MHz",
+            "OC클럭:1537MHz",
+            "스트림 프로세서:2304개",
+            "PCIe4.0x16",
+            "GDDR6(DDR6)",
+            "출력단자:HDMI2.1,DP1.4,DVI(듀얼링크)",
+            "지원정보:8K 지원,4K 지원,HDCP 2.3",
+            "정격파워 450W 이상",
+            "2팬",
+            "가로(길이):201mm",
+            "두께:37mm"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=63086675&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/675/086/img/63086675_1.jpg",
+        "registration_date": "등록월 2024.08."
+    },
+    {
+        "id": 14158409,
+        "name": "SAPPHIRE 라데온 RX 6900 XT TOXIC OC D6 16GB Extreme Edition",
+        "price": 1092900,
+        "specs": [
+            "RX 6900 XT",
+            "7nm",
+            "부스트클럭:2730MHz",
+            "스트림 프로세서:5120개",
+            "PCIe4.0x16",
+            "GDDR6(DDR6)",
+            "출력단자:HDMI2.1,DP1.4",
+            "지원정보:8K 지원,4K 지원",
+            "사용전력:최대 430W",
+            "정격파워 850W 이상",
+            "전원 포트:8핀 x2 + 6핀 x1",
+            "전원부:18페이즈",
+            "3팬",
+            "가로(길이):270mm",
+            "두께:45mm",
+            "제로팬(0-dB기술)",
+            "백플레이트",
+            "LED 라이트",
+            "Dual BIOS",
+            "수냉 장착 지원",
+            "A",
+            "S 3년",
+            "인피니티 캐시: 128MB / RDNA2"
+        ],
+        "danawa_href": "https://shop.danawa.com/main/?controller=goods&methods=blog&billingInternalProductSeq=14158409&productRegisterAreaGroupSeq=78&serviceSectionSeq=597",
+        "image_url": "https://img.danawa.com/prod_img/500000/409/158/img/14158409_1.jpg",
+        "registration_date": "등록월 2021.05."
+    },
+    {
+        "id": 57483869,
+        "name": "COLORFUL 지포스 RTX 4070 토마호크 EX D6X 12GB 피씨디렉트",
         "price": 823200,
         "specs": [
             "RTX 4070",

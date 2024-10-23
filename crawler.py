@@ -51,7 +51,7 @@ def extract_product_info(product, category, save_images):
     prod_link = product.find_element(By.CSS_SELECTOR, "div.main_info > div.head_info > a").get_attribute('href')
     parsed_url = urlparse(prod_link)
     query_params = parse_qs(parsed_url.query)
-    product_id = query_params.get('billingInternalProductSeq', [None])[0]
+    id = int(query_params.get('billingInternalProductSeq', [None])[0])
     
     price_element = product.find_element(By.CSS_SELECTOR, "div.price_info > div.main_price.prod_price_set > dl:nth-child(1) > dd > span.text__number")
     price_text = price_element.text.replace(',', '')
@@ -66,8 +66,8 @@ def extract_product_info(product, category, save_images):
     reg_date = product.find_element(By.CSS_SELECTOR, "div.main_info > div.prod_sub_info > div.prod_sub_meta > dl").text
     
     product_info = {
+        "id": id,
         "name": name,
-        "product_id": product_id,
         "price": price,
         "specs": spec_list,
         "danawa_href": prod_link,
@@ -76,10 +76,10 @@ def extract_product_info(product, category, save_images):
     }
     
     if save_images:
-        save_image(img_url, product_id, category)
+        save_image(img_url, id, category)
     
     print(f"제품명: {name}")
-    print(f"제품ID: {product_id}")
+    print(f"제품ID: {id}")
     print(f"가격: {price}원" if price is not None else "가격: 정보 없음")
     print(f"스펙: {', '.join(spec_list)}")
     print(f"상품 링크: {prod_link}")
@@ -89,11 +89,11 @@ def extract_product_info(product, category, save_images):
     
     return product_info
 
-def save_image(img_url, product_id, category):
+def save_image(img_url, id, category):
     img_dir = os.path.join(get_project_root(), 'dataset', 'product-images', category)
     os.makedirs(img_dir, exist_ok=True)
     
-    img_path = os.path.join(img_dir, f"{product_id}.jpg")
+    img_path = os.path.join(img_dir, f"{id}.jpg")
     
     response = requests.get(img_url)
     if response.status_code == 200:

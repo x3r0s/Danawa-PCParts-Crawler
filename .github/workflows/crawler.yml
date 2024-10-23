@@ -32,36 +32,44 @@ jobs:
     - name: Install Chrome
       uses: browser-actions/setup-chrome@latest
     
-    - name: Check directory before crawling
-      run: ls -R
-
     - name: Run crawler
-      run: python crawler.py --verbose
+      run: python crawler.py --verbose --workflow
       env:
         PYTHONUNBUFFERED: 1
 
-    - name: Check directory after crawling
-      run: ls -R
-
-    - name: Upload crawling results
-      uses: actions/upload-artifact@v3
-      if: always()
-      with:
-        name: crawling-results
-        path: dataset/
-
-    - name: Commit and push if changed
+    - name: Commit and push changes
       run: |
         git config --global user.email "xeros@xbyteventures.com"
         git config --global user.name "xeros"
-        git add -A
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update data" && git push)
+        
+        # 각 카테고리별로 변경사항 확인 및 커밋
+        for file in dataset/*.json; do
+          category=$(basename "$file" .json)
+          git add "$file"
+          if git diff --staged --quiet; then
+            echo "No changes in $category"
+          else
+            git commit -m "Update data for $category"
+            git push
+          fi
+        done
+        
+        # history 파일 커밋
+        today=$(date +%Y-%m-%d)
+        history_file="dataset/history/${today}.json"
+        if [ -f "$history_file" ]; then
+          git add "$history_file"
+          git commit -m "Add history data for $today"
+          git push
+        fi
 
     - name: Check crawling results
       run: |
         echo "Crawling results:"
         for file in dataset/*.json; do
-          echo "$(basename "$file"): $(jq length "$file") products"
+          category=$(basename "$file" .json)
+          count=$(jq length "$file")
+          echo "$category: $count products"
         done
         
         # 누락된 카테고리 확인
@@ -71,3 +79,10 @@ jobs:
             echo "Missing category: ${category}"
           fi
         done
+        
+        # 히스토리 파일 확인
+        if [ -f "$history_file" ]; then
+          echo "Today's history file created: ${today}.json"
+        else
+          echo "Error: Today's history file not found"
+        fi

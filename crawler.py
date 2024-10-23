@@ -11,14 +11,19 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 import time
 import threading
-import zipfile
-from datetime import datetime
 import argparse
-import shutil
 import traceback
+from datetime import datetime
 
 # 프로젝트 루트 디렉토리 설정
-PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+def get_project_root(is_workflow=False):
+    if is_workflow:
+        return os.environ.get('GITHUB_WORKSPACE', '')
+    return os.path.dirname(os.path.abspath(__file__))
+
+# 전역 변수로 데이터 저장소 생성
+data_store = {}
+data_store_lock = threading.Lock()
 
 # 웹드라이버 설정
 def setup_driver():
@@ -86,7 +91,7 @@ def extract_product_info(product, category, save_images):
     return product_info
 
 def save_image(img_url, product_id, category):
-    img_dir = os.path.join(PROJECT_ROOT, 'dataset', 'product-images', category)
+    img_dir = os.path.join(get_project_root(), 'dataset', 'product-images', category)
     os.makedirs(img_dir, exist_ok=True)
     
     img_path = os.path.join(img_dir, f"{product_id}.jpg")
@@ -98,10 +103,6 @@ def save_image(img_url, product_id, category):
         print(f"이미지 저장 완료: {img_path}")
     else:
         print(f"이미지 다운로드 실패: {img_url}")
-
-# 전역 변수로 데이터 저장소 생성
-data_store = {}
-data_store_lock = threading.Lock()
 
 # 페이지별 크롤링 함수
 def crawl_page(driver, page_num, category, save_images):
@@ -124,8 +125,18 @@ def append_to_json(product, filename):
         with open(filename, 'w', encoding='utf-8') as file:
             json.dump([product], file, ensure_ascii=False, indent=4)
 
+def save_category_data(category, data, project_root):
+    output_dir = os.path.join(project_root, 'dataset')
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # 카테고리별 JSON 파일 생성
+    category_file = os.path.join(output_dir, f'{category}.json')
+    with open(category_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print(f"{category} 데이터를 {category_file}에 저장했습니다.")
+
 # 카테고리별 크롤링 함수
-def crawl_category(url, category, save_images):
+def crawl_category(url, category, save_images, project_root):
     print(f"카테고리 '{category}' 크롤링 시작")
     try:
         driver = setup_driver()
@@ -188,24 +199,34 @@ def crawl_category(url, category, save_images):
         print(f"카테고리 '{category}' 크롤링 완료")
         print(f"총 {products_count}개의 제품 정보를 저장했습니다.")
         
-        # 데이터를 전역 저장소에 저장
+        # 데이터를 전역 저장소에 저장하고 파일로 저장
         with data_store_lock:
             data_store[category] = products_data
+            save_category_data(category, products_data, project_root)
 
-def save_data_to_files():
-    output_dir = os.path.join(PROJECT_ROOT, 'dataset')
+def save_data_to_files(project_root):
+    output_dir = os.path.join(project_root, 'dataset')
     os.makedirs(output_dir, exist_ok=True)
     
-    for category, data in data_store.items():
-        output_file = os.path.join(output_dir, f'{category}.json')
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=4)
-        print(f"{category} 데이터를 {output_file}에 저장했습니다.")
+    # latest.json 파일 생성
+    latest_file = os.path.join(output_dir, 'latest.json')
+    with open(latest_file, 'w', encoding='utf-8') as f:
+        json.dump(data_store, f, ensure_ascii=False, indent=4)
+    print(f"모든 데이터를 {latest_file}에 저장했습니다.")
+    
+    # history 디렉토리에 날짜별 파일 생성
+    history_dir = os.path.join(output_dir, 'history')
+    os.makedirs(history_dir, exist_ok=True)
+    today = datetime.now().strftime("%Y-%m-%d")
+    history_file = os.path.join(history_dir, f'{today}.json')
+    with open(history_file, 'w', encoding='utf-8') as f:
+        json.dump(data_store, f, ensure_ascii=False, indent=4)
+    print(f"오늘의 데이터를 {history_file}에 저장했습니다.")
 
 # 데이터 압축 함수
 def compress_data(output_dir):
     today = datetime.now().strftime("%Y%m%d")
-    zip_filename = os.path.join(PROJECT_ROOT, 'dataset', 'history', f'data_{today}.zip')
+    zip_filename = os.path.join(get_project_root(), 'dataset', 'history', f'data_{today}.zip')
     os.makedirs(os.path.dirname(zip_filename), exist_ok=True)
     
     with zipfile.ZipFile(zip_filename, 'w') as zipf:
@@ -218,16 +239,18 @@ def compress_data(output_dir):
     print(f"데이터 압축 완료: {zip_filename}")
 
 # 메인 함수
-def main(save_images=False, verbose=False):
+def main(save_images=False, verbose=False, is_workflow=False):
     if verbose:
         print("상세 로그 모드 활성화")
     
-    with open(os.path.join(PROJECT_ROOT, 'target-list.json'), 'r') as f:
+    project_root = get_project_root(is_workflow)
+    
+    with open(os.path.join(project_root, 'target-list.json'), 'r') as f:
         targets = json.load(f)
 
     threads = []
     for category, url in targets.items():
-        thread = threading.Thread(target=crawl_category, args=(url, category, save_images))
+        thread = threading.Thread(target=crawl_category, args=(url, category, save_images, project_root))
         threads.append(thread)
         thread.start()
         print(f"{category} 크롤링 시작")
@@ -238,7 +261,7 @@ def main(save_images=False, verbose=False):
     print("모든 카테고리 크롤링 완료")
     
     # 데이터를 파일로 저장
-    save_data_to_files()
+    save_data_to_files(project_root)
     
     print("크롤링 결과:")
     for category, data in data_store.items():
@@ -253,13 +276,14 @@ def main(save_images=False, verbose=False):
     else:
         print("모든 카테고리가 정상적으로 크롤링되었습니다.")
 
-    output_dir = os.path.join(PROJECT_ROOT, 'dataset')
+    output_dir = os.path.join(get_project_root(), 'dataset')
     compress_data(output_dir)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Danawa 제품 정보 크롤러')
     parser.add_argument('--save-images', action='store_true', help='이미지 저장 여부')
     parser.add_argument('--verbose', action='store_true', help='상세 로그 출력')
+    parser.add_argument('--workflow', action='store_true', help='GitHub Actions 워크플로우에서 실행 여부')
     args = parser.parse_args()
 
-    main(save_images=args.save_images, verbose=args.verbose)
+    main(save_images=args.save_images, verbose=args.verbose, is_workflow=args.workflow)

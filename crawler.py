@@ -7,7 +7,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 import time
 import threading
@@ -31,7 +30,7 @@ def setup_driver():
     options.add_argument('--headless')
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
-    driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    driver = webdriver.Chrome(options=options)
     return driver
 
 # 스크롤 함수
@@ -67,13 +66,13 @@ def extract_product_info(product, category, save_images):
     reg_date = product.find_element(By.CSS_SELECTOR, "div.main_info > div.prod_sub_info > div.prod_sub_meta > dl").text
     
     product_info = {
-        "제품명": name,
-        "제품ID": product_id,
-        "가격": price,
-        "스펙": spec_list,
-        "prod_danawa_href": prod_link,
-        "이미지URL": img_url,
-        "등록년월": reg_date
+        "name": name,
+        "product_id": product_id,
+        "price": price,
+        "specs": spec_list,
+        "danawa_href": prod_link,
+        "image_url": img_url,
+        "registration_date": reg_date
     }
     
     if save_images:
@@ -134,6 +133,15 @@ def save_category_data(category, data, project_root):
     with open(category_file, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
     print(f"{category} 데이터를 {category_file}에 저장했습니다.")
+    
+    # 히스토리 디렉토리에 복제
+    today = datetime.now().strftime("%Y-%m-%d")
+    history_dir = os.path.join(output_dir, 'history', today)
+    os.makedirs(history_dir, exist_ok=True)
+    history_file = os.path.join(history_dir, f'{category}.json')
+    with open(history_file, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+    print(f"{category} 데이터를 {history_file}에 복제했습니다.")
 
 # 카테고리별 크롤링 함수
 def crawl_category(url, category, save_images, project_root):
@@ -208,35 +216,8 @@ def save_data_to_files(project_root):
     output_dir = os.path.join(project_root, 'dataset')
     os.makedirs(output_dir, exist_ok=True)
     
-    # latest.json 파일 생성
-    latest_file = os.path.join(output_dir, 'latest.json')
-    with open(latest_file, 'w', encoding='utf-8') as f:
-        json.dump(data_store, f, ensure_ascii=False, indent=4)
-    print(f"모든 데이터를 {latest_file}에 저장했습니다.")
-    
-    # history 디렉토리에 날짜별 파일 생성
-    history_dir = os.path.join(output_dir, 'history')
-    os.makedirs(history_dir, exist_ok=True)
-    today = datetime.now().strftime("%Y-%m-%d")
-    history_file = os.path.join(history_dir, f'{today}.json')
-    with open(history_file, 'w', encoding='utf-8') as f:
-        json.dump(data_store, f, ensure_ascii=False, indent=4)
-    print(f"오늘의 데이터를 {history_file}에 저장했습니다.")
-
-# 데이터 압축 함수
-def compress_data(output_dir):
-    today = datetime.now().strftime("%Y%m%d")
-    zip_filename = os.path.join(get_project_root(), 'dataset', 'history', f'data_{today}.zip')
-    os.makedirs(os.path.dirname(zip_filename), exist_ok=True)
-    
-    with zipfile.ZipFile(zip_filename, 'w') as zipf:
-        for root, _, files in os.walk(output_dir):
-            for file in files:
-                if file.endswith('.json'):
-                    zipf.write(os.path.join(root, file), 
-                               os.path.relpath(os.path.join(root, file), output_dir))
-    
-    print(f"데이터 압축 완료: {zip_filename}")
+    for category, data in data_store.items():
+        save_category_data(category, data, project_root)
 
 # 메인 함수
 def main(save_images=False, verbose=False, is_workflow=False):
@@ -275,9 +256,6 @@ def main(save_images=False, verbose=False, is_workflow=False):
             print(f"- {category}")
     else:
         print("모든 카테고리가 정상적으로 크롤링되었습니다.")
-
-    output_dir = os.path.join(get_project_root(), 'dataset')
-    compress_data(output_dir)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Danawa 제품 정보 크롤러')
